@@ -1,0 +1,11 @@
+Primary_Error_Type,Count,Percentage
+evidence_insufficient,6,0.24
+entity_attribute_mismatch,5,0.2
+negation,3,0.12
+role_relation_mismatch,3,0.12
+temporal_mismatch,2,0.08
+boundary_condition,2,0.08
+causal_mismatch,1,0.04
+implicit_contradiction,1,0.04
+possible_annotation_issue,1,0.04
+numerical_mismatch,1,0.04

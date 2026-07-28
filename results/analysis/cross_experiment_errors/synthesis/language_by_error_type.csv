@@ -1,0 +1,4 @@
+language,boundary_condition,causal_mismatch,entity_attribute_mismatch,evidence_insufficient,implicit_contradiction,negation,numerical_mismatch,possible_annotation_issue,role_relation_mismatch,temporal_mismatch
+hausa,1,1,2,2,1,0,0,0,0,1
+igbo,0,0,0,1,0,1,0,0,2,0
+yoruba,1,0,3,3,0,2,1,1,1,1

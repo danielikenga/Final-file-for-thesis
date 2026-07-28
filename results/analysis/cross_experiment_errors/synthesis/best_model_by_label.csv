@@ -1,0 +1,4 @@
+Gold_Label,Experiment,Examples,Accuracy
+nei,qwen_14b_translated,174,0.9597701149425288
+refutes,qwen_14b_translated,152,0.625
+supports,qwen_1_5b_gold,166,0.9216867469879518

@@ -1,0 +1,4 @@
+,pred_supports,pred_refutes,pred_nei
+gold_supports,153,12,1
+gold_refutes,120,19,13
+gold_nei,100,20,54

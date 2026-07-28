@@ -1,0 +1,10 @@
+id,language,gold_label,qwen_1_5b_claim_only_prediction,qwen_1_5b_gold_prediction,qwen_1_5b_bm25_prediction,qwen_1_5b_adversarial_prediction,qwen_14b_gold_prediction,qwen_14b_translated_prediction,qwen_1_5b_claim_only_correct,qwen_1_5b_gold_correct,qwen_1_5b_bm25_correct,qwen_1_5b_adversarial_correct,qwen_14b_gold_correct,qwen_14b_translated_correct,num_systems_correct
+afrifact_data_culture_hausa_178,hausa,nei,nei,nei,nei,nei,nei,nei,True,True,True,True,True,True,6
+afrifact_data_culture_yoruba_690,yoruba,supports,supports,supports,supports,supports,supports,supports,True,True,True,True,True,True,6
+afrifact_data_culture_yoruba_691,yoruba,nei,nei,nei,nei,nei,nei,nei,True,True,True,True,True,True,6
+afrifact_data_culture_hausa_031,hausa,refutes,refutes,refutes,refutes,refutes,refutes,refutes,True,True,True,True,True,True,6
+afrifact_data_culture_hausa_672,hausa,supports,supports,supports,supports,supports,supports,supports,True,True,True,True,True,True,6
+afrifact_data_culture_igbo_062,igbo,supports,supports,supports,supports,supports,supports,supports,True,True,True,True,True,True,6
+afrifact_data_culture_yoruba_630,yoruba,supports,supports,supports,supports,supports,supports,supports,True,True,True,True,True,True,6
+afrifact_data_culture_igbo_702,igbo,supports,supports,supports,supports,supports,supports,supports,True,True,True,True,True,True,6
+afrifact_data_culture_hausa_098,hausa,nei,nei,nei,nei,nei,nei,nei,True,True,True,True,True,True,6

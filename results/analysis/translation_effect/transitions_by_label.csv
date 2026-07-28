@@ -1,0 +1,13 @@
+gold_label,transition,Count
+nei,correct_to_correct,162
+nei,correct_to_wrong,4
+nei,wrong_to_correct,5
+nei,wrong_to_wrong,3
+refutes,correct_to_correct,31
+refutes,correct_to_wrong,7
+refutes,wrong_to_correct,61
+refutes,wrong_to_wrong,53
+supports,correct_to_correct,74
+supports,correct_to_wrong,37
+supports,wrong_to_correct,24
+supports,wrong_to_wrong,31

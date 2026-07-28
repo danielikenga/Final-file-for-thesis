@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.45934959349593496,
+    "macro_f1": 0.4003970354171877,
+    "precision": 0.5256181114089961,
+    "recall": 0.45234385819138617,
+    "valid_predictions": 492,
+    "total_predictions": 492,
+    "invalid_predictions": 0
+}

@@ -1,0 +1,4 @@
+Language,Experiment,Examples,Accuracy
+hausa,qwen_14b_translated,166,0.7590361445783133
+igbo,qwen_14b_translated,163,0.7423312883435583
+yoruba,qwen_14b_translated,163,0.7055214723926381

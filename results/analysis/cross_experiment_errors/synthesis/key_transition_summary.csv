@@ -1,0 +1,6 @@
+Before,After,Correct_to_Correct,Wrong_to_Correct,Correct_to_Wrong,Wrong_to_Wrong,Net_Correct_Gain
+qwen_1_5b_claim_only,qwen_1_5b_gold,74,152,118,148,34
+qwen_1_5b_gold,qwen_1_5b_bm25,171,23,55,243,-32
+qwen_1_5b_gold,qwen_1_5b_adversarial,89,75,137,191,-62
+qwen_1_5b_gold,qwen_14b_gold,169,146,57,120,89
+qwen_14b_gold,qwen_14b_translated,268,94,47,83,47

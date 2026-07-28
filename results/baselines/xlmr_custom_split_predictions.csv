@@ -1,0 +1,493 @@
+language,claim,gold_label,predicted_label,supports_score,refutes_score,nei_score
+hausa,Shugaba Muhammadu Buhari ya kaddamar da eNaira a ranar 20 ga watan Yunin 2016.,nei,nei,0.40681788,0.18268348,0.41049865
+igbo,Ngagharị iwe a bụ ụzọ e si edozi esemokwu.,nei,refutes,0.22420374,0.38946334,0.38633293
+igbo,Ihe isi ike anaghị emetụta ihe ndị e ji alụ ụm̀ụ nwaanyị Igbo. Ụmụ ntorobịa Igbo kwuru na ha zuru ka emee.,refutes,refutes,0.21228847,0.40188554,0.385826
+igbo,"N'ịgbado ụkwụ n'oke ala nakwa ngwaahịa, Ahịa Main Market Ọnicha bụ otu n'ime ahịa kacha bu ibu n'ọdịda anyanwụ Afịrịka",supports,refutes,0.33260188,0.37845805,0.28894004
+yoruba,"Abíọ́lá ní ìfẹ́ sí ìṣèlú látìgbà tí ó wà ní ọmọ ọdún mọ́kàndínlógún, ó sì bẹ̀rẹ̀ sí í kópa ní ẹgbẹ́ òṣèlú látàrí ìfẹ́ tí ó ní sí i.rẹ̀ sí i.",supports,supports,0.53172946,0.25676763,0.21150286
+hausa,Rabiu Musa Kwankwaso ne ya naɗa Sunusi Lamido Sunusi sarautar Kano bayan mutuwar Ado Bayero.,nei,supports,0.45899484,0.20856324,0.332442
+igbo,Akwa mmiri ahụ adaala.,nei,nei,0.2493374,0.37016594,0.38049668
+hausa,"Ango a al'adar Hausawa yana da alhakin siyan kayan lefe kafin aure, sannan kayan ana kai su gidan amarya ta hannun mata.",supports,supports,0.43678996,0.20197508,0.3612349
+igbo,Ụfọdụ ụlọakwụkwọ dị na Beijing na Shanghai emepebeghị dịka ụmụakwụkwọ agaghị akwụkwọ taa,refutes,refutes,0.23192,0.40224814,0.36583185
+igbo,O bụ ịkọ ọrụ ugbo so na ọrụ ndị mba Brazil dabere na ya isi na-abawanye ọnọdụ akụ na ụba ha ruo ugbu a.,nei,nei,0.382046,0.22087522,0.39707878
+hausa,Muhammadu Buhari ya zama shugan kasa na mulkin soja yana matsayin kanal.,refutes,nei,0.3620554,0.21937524,0.41856942
+igbo,"N'ịgbado ụkwụ n'oke ala nakwa ngwaahịa, Ahịa Main Market Ọnicha akaghị ahịa Arịarịa nke Aba bu ibu",refutes,supports,0.4343302,0.35759506,0.20807478
+yoruba,"Ní orílẹ̀-èdè Nàìjíríà, ètò ìkànìyàn bẹ̀rẹ̀ Ní ọdún 1852 láti ṣe àkọsílẹ̀ iye èèyàn tó wà lórílẹ̀-èdè náà.",nei,supports,0.5375811,0.23126832,0.23115058
+igbo,Otu onye bi n'Anambra kwuru na ọ ruola afọ iri mmiri gbadebere na mpaghara ya.,refutes,refutes,0.25764173,0.38784298,0.35451522
+hausa,Usman Dan Fodiyo ɗan asalin kabilar Hausawa ne.,refutes,nei,0.3364481,0.262387,0.40116492
+igbo,Naanị ikuku na ọhịa bụ ihe dị ka ọrụ ugbo mkpa iji wee ịga nke ọma,refutes,refutes,0.23253813,0.40665042,0.36081138
+igbo,"Nnamdị Kanu bụ omeiwu. Ụgbụa, a kpọgara ya ụlọ nga dị na Sokoto.",nei,refutes,0.35295975,0.35324013,0.2938001
+hausa,Masanin tarihin abinci da aikin gona James C. McCann ya ba da shawarar daina yaɗa shinkafa.,refutes,supports,0.42097518,0.19199426,0.38703054
+hausa,Yan majalisar sun ce su wakilan jama'a ne don haka suna da ikon yin ƙarin ayyuka a cikin kasafin.,supports,supports,0.42617002,0.19575961,0.37807032
+yoruba,"Nígbà tí Buhari jẹ́ ààrẹ, ó lo sáà méjì àti àbọ̀ kí ó tó kúrò ní ipò.",refutes,supports,0.5384026,0.2418448,0.21975258
+yoruba,Gbogbo ìlú tí ó wà ní ìpínlẹ̀ Kwara ni ẹ̀yà náà tẹ̀dó sí.,nei,refutes,0.2597879,0.42052814,0.31968403
+igbo,"Mmanya ndị dị ka fanta, coke na sprite na-amasị ụmụaka iji je akwụkwọ",nei,refutes,0.22846387,0.39850113,0.373035
+hausa,"Hadisi na nufin faɗar Annabi Sallallahu Alaihi Wasallama, aikin sa da kuma tabbatarwarsa.",supports,supports,0.42743525,0.2035804,0.3689844
+hausa,Sunna na nufin abinda Annabi (S.A.W) ya yi ko aka yi a gabansa bai hana ba.,supports,nei,0.22323689,0.36422658,0.4125365
+igbo,Ọnụọgụ mmadụ puku abụọ na itoolu anwụọla na mba Kenya n'ihi nje Ebola.,nei,nei,0.19024898,0.392806,0.41694498
+igbo,Ozi a ha wepụtara adịghị n'akara twitter ha.,refutes,nei,0.24975899,0.37137663,0.3788644
+yoruba,Jude Chukwuka: Wò ó bí oríkì àwọn ìlú Yorùbá ṣe yọ̀ lẹ́nu ọmọ Igbo jú ọmọ onílùú lọ.,nei,refutes,0.31695524,0.40867373,0.27437103
+yoruba,Ẹ̀sìn ìsìláàmù jẹ́ àṣà tí Ọlọ́run ń lò láti fi ránṣẹ́ sí ànọ́bì kí àlàáfíà àti ìrọ̀rùn lè wà láàárín gbogbo ọmọnìyàn.,refutes,supports,0.48234016,0.2875344,0.23012544
+yoruba,Àwọn ọmọ ẹgbẹ́ PDP fẹ̀hónúhàn nílé ẹjọ́ gíga jùlọ lórí owó ìṣúná ẹ̀ka ìdájọ́.,supports,refutes,0.28426757,0.4233784,0.29235396
+yoruba,"Sunday Igboho ní pé àwọn Fulani kò leè dúró, táa bá lo ohun tí a jogún lọ́dọ̀ àwọ̀n bàbá ńlá wa.",nei,supports,0.56258214,0.25749603,0.17992185
+yoruba,"Àwọn arákùnrin kan figbe ta nígbà tí wọ́n gbọ́ pé ọmọ Buhari fẹ́ ṣe ìgbeyawò, kódà ọ̀kan lára wọn ní òun máa ṣekú pa ara òun bí òun kò bá ní oore-ọ̀rẹ́ láti fẹ́ arábìnrin náà.",supports,supports,0.51897854,0.23746544,0.24355605
+igbo,Ndị edemede America na Dreux Richard bi na Okwe iji mezue ederede ya mgbe ọ nọ Naijiria.,supports,refutes,0.22205037,0.42942774,0.34852186
+hausa,Babu bambanci tsakanin ambaton Musa da Yesu a Al-Qur’ani.,refutes,supports,0.41195312,0.18518618,0.40286067
+yoruba,Lára àwọn òrìṣà tí Olódùmarè rán wá láti ìkọ̀lé ọ̀run sí ayé ni Èṣù. Ó sì wà láàárín àwọn ibọ ìran Yorùbá.,supports,supports,0.48689276,0.28567547,0.22743176
+hausa,Sarauniya Amina ta samu sarautar Zazzau a shekarar 1533.,refutes,supports,0.4269887,0.17629175,0.3967195
+yoruba,Dangote ni ẹni tí ó kọ́kọ́ ní ilé-iṣẹ́ Ìfọpo ní orílẹ̀-èdè Nàìjííríà.,nei,refutes,0.24547115,0.4253804,0.3291485
+igbo,Ndị na-achịkwa Ahịa Main Market Ọnicha ruo taata bụ ndị National Union of Road Transport Workers (NURTW).,refutes,refutes,0.24404576,0.38467088,0.37128335
+yoruba,"Ernest wà ní ipò láti ọjọ́ mẹ́rindínlọ́gbọ̀n, oṣù kẹjọ, ọdún 1993 títí dé ọjọ́ kẹ́tadínlógún, oṣù kọkànlá ọdún 1993 tí ó fi fẹ̀yìn tì.",supports,supports,0.5514915,0.23112947,0.21737899
+hausa,Duk farkon damuna manoma na yin amfani da lauje wurin cire ƙiraren ciyawa da suka bushe.,nei,supports,0.4146062,0.18410353,0.4012903
+yoruba,"Ní àgbáyé, ọbẹ̀ jẹ́ ohun pàtàkì nínú oúnjẹ tí ènìyàn ń jẹ láti lókun.",nei,supports,0.57533455,0.25597534,0.16869012
+hausa,Super Eagles sun lashe Gasar Cin Kofin Afirka ta farko,nei,nei,0.33289126,0.24788019,0.41922855
+hausa,Jerin sunanyen wannan shekar ya fito daga ofishin shugaban makaranta.,nei,nei,0.36410558,0.22077787,0.41511658
+yoruba,"Ìṣẹ̀lẹ̀ yìí mú Bisi Fayemi sunkún nítorí ìṣẹ̀lẹ̀ yìí ti ṣẹlẹ̀ sí òun náà rí, lásìkò tó wà ní ilé-ẹ̀kọ́ gíga.",nei,supports,0.55561763,0.24932109,0.19506131
+yoruba,Obateru Akinruntan sọ wí pé wíwá ohun tí àwọn máa jẹ ló gbé àwọn kúrò ní Ilé-Ifè.,nei,refutes,0.22331765,0.42699417,0.34968814
+yoruba,"Òrìṣà ńlá tí wọ́n máa ń gbóríyìn fún ni Ṣági fún agbára rẹ̀ láti lè pèsè owó, ọlá, àti àṣeyọrí fún àwọn olùsìn rẹ̀.",refutes,supports,0.53990805,0.24158849,0.21850342
+yoruba,Adebayo Shittu je mínísítà fún ètò ìbánisọ̀rọ̀ ní Nàìjíríà láti ọdún 2017 sí ọdún 2019.,refutes,refutes,0.27221262,0.4340464,0.29374096
+igbo,Pompeo achọtaghị akwụkwọ na-egosi mmekọrịta ochịchị Trump na mba Ukren.,nei,refutes,0.2446449,0.38942787,0.36592725
+igbo,Mansur Dan-Ali nyere ndị agha Naịjirịa iwu ịkwaga Borno ngwangwa.,refutes,refutes,0.20346223,0.40191552,0.39462224
+yoruba,"Ọ̀kà-Àkókó, Ọ̀bà, Ikun, Arigidi, Ùgbẹ̀, Ọ̀gbàgì, Òkèàgbè jẹ́ àpẹẹrẹ àwọn ìlú tí a lè bá pàdé lábẹ́ ẹ̀yà Àkókó.",supports,supports,0.5240225,0.2621369,0.21384057
+hausa,Najeriya ta buga wasan farko a gasar cin Kofin Afirka a shekarar 1963,nei,supports,0.42951873,0.18390304,0.3865783
+yoruba,Aganjú jẹ́ iya Sango àti ìyá Àjàká tí wọ́n jọ jọba ní ìlú Ọ̀yọ́ ri.,refutes,refutes,0.20475185,0.42549127,0.36975685
+igbo,Esemokwu dị n'etiti n̄ọchịchị Naịjirịa na Nnamdị Kanu. Nke mere ka gọọmentị Naịjirịa tụọ ya nga ndụ.,nei,nei,0.23851217,0.3731803,0.38830754
+yoruba,"Ìròyìn fi lélẹ̀ pé ọ̀rẹ́ kòríkòsùn ní àwọn olorì méjèèjì yìí, tí wọ́n sì jọ máa ń wọ àǹkóò lọ sóde ní gbogbo ìgbà.",supports,supports,0.5677889,0.22032745,0.21188368
+igbo,Davido kwuru na enyi ya nwaanyị bụ Chioma nwere ọrịa coronavirus. Davido matara ọrịa enyi ya nwaanyị mgbe ha si London lọta.,supports,refutes,0.3016877,0.387144,0.3111683
+igbo,Gọọmentị Naịjerịa na-achọ ụzọ ha ga-esi ebite ego ha ga-etinye n'ọrụ ugbo.,nei,nei,0.23032583,0.37393355,0.39574066
+yoruba,Wizkid jẹ́ ọ̀kan lára àwọn olórin tàkásúfẹ̀ẹ́  Afro Beat tó wà ní orílẹ̀-èdè Nàìjíríà.,supports,refutes,0.24410394,0.41138655,0.34450954
+igbo,Mmadụ iri asaa na asatọ nọ n'ime ụgbọelu Sibera Airlines si obodo Tel Aviv aga obodo Novobirsk Rọshịa nwụrụ ka ugbọelu ha dabara n'oshimiri ojii. Ndị agha Ukren gọrọ na aka ha adịghị ya mechaa kweta na aka ha dị na ya.,supports,supports,0.41502818,0.28472674,0.300245
+yoruba,"Ní ọdún 1950, Moshood gba àǹfààní ẹ̀kọ́ ọ̀fẹ́ ti ìjọba, tí ó fi gba oyè nípa imọ̀ ìṣirò.",refutes,supports,0.5735933,0.24124064,0.18516605
+igbo,Ndị ụmụnna abaghị uru ọbụla n'obodo maọbụ n'ezinụlọ ha.,refutes,refutes,0.08811464,0.51054275,0.40134266
+yoruba,"Arapaja ṣé alága ìjọba ìbílẹ̀ Ìlà-oòrùn Ìbàdán lẹ́ẹ̀mejì ọ̀tọ̀tọ̀, láàárín ọdún 1996 sí ọdún 2003.",supports,supports,0.54955614,0.2552383,0.1952056
+igbo,Lawrence Ifeanyi Ugwuanyi bụ Osote Gọvanọ nke Enugu Steeti malite n'ọnwa Eprel nke afo 2015.,refutes,refutes,0.18811071,0.4280891,0.38380018
+yoruba,"Eré bọ́ọ̀lù ló pọ̀ jù láàrin àwọn ọmọkùnrin gẹ́gẹ́ bí eré ṣíṣe, àmọ́ eré-ọmọdé mìíràn wà tí wọ́n kúndùn láti máa ṣe.",supports,supports,0.5517691,0.25059372,0.19763722
+hausa,Ana fama da rashin tsaro na boko-haram da yan bindiga a jahohin arewacin Najeriya.,nei,supports,0.41848725,0.18803422,0.39347848
+igbo,"Na March 17, 1936, n'obodo Igbo dị na Atani ka a mụrụ Osadebe.",supports,supports,0.373792,0.29245716,0.33375084
+hausa,Ana aikin Hajji ne a ƙarshen shekarar musulunci.,nei,nei,0.3542818,0.2144792,0.43123898
+hausa,Zuwa gidajen shaƙatawa yana ɗebewa mutane kewa ya kawar mu su da damuwarsu.,nei,supports,0.41684398,0.1941035,0.38905254
+igbo,"N'oge Chris Nwabueze Ngigeji ọkwa Gọvanọ Anambra Steeti, ndị òtù Peoples Democratic Party gbahapụrụ ya",nei,supports,0.42201394,0.33037418,0.24761191
+yoruba,"Asúnrétete kò ní kọjá ilé, Arìngbẹ̀rẹ̀ kò ní sùn sọ́nà.",nei,supports,0.51038927,0.30091074,0.18870002
+igbo,"Irighiri ihe ndị e ji esi ofe egusi gụnyere mmanụ, ose, yabasị, akwụkwọ nri, crayfish, anụ, azụ, bitterleaf, pumpkin leaf na spinach.",supports,supports,0.5140423,0.20729814,0.27865952
+yoruba,"Ní ilẹ̀ Adúláwọ̀, ọ̀pọ̀lọpọ̀ àgbẹ̀ ní ń gbin iṣu.",supports,supports,0.36705717,0.357117,0.27582583
+hausa,Tsadar fitulu masu amfani da hasken rana ne yasa gwamnatoci ke barin titinan jiharsu a cikin duhu.,nei,supports,0.4167042,0.18406673,0.39922908
+hausa,Bahaushe ya na da karin magana daban-daban da ya ke amfani dasu wurin isar da saƙonni.,nei,supports,0.41243145,0.20249468,0.38507396
+igbo,Chinwoke Mbadinuju zọrọ ọkwa onye isi ala ka afọ anọ gachara Naịjirịa laghachiri n'ọchịchị onye kwuo uche ya n'afọ 2003.,refutes,nei,0.22169489,0.38561666,0.39268848
+igbo,Uche Nwonwu kwuru na ọ bụ mmiri dị n'azụ be ha ka ha na-aṅụ.,refutes,nei,0.24204035,0.37147665,0.38648298
+igbo,Nabil Fekir kpọ ndị ya nọ n'otu egwuregwu Lyon gaa Algerịa inwe obi aṅụrị.,nei,nei,0.2400955,0.37566963,0.38423488
+hausa,Chinenye Okafor ta bar wasan ƙwallon kafa ne saboda ra'ayin kanta.,refutes,supports,0.4094566,0.19096503,0.39957842
+hausa,Umaru Musa 'Yar'adua bai taɓa zama mamba na wata kwalleji a jihar Katsina ba.,refutes,supports,0.43550268,0.1852385,0.37925884
+hausa,Jihar Taraba ta kasance mafi girman ƙasa a cikin johohin Najeriya.,nei,supports,0.43967548,0.17617862,0.3841459
+igbo,Facebook mere Ọkaiwu Paul Achallaonye nnọchite anya ya na Naịjrịa.,nei,refutes,0.22499771,0.39164367,0.38335863
+hausa,Yawan matan da ke kashe kan su a ƙasar Japan ya ƙaru da kashi 70 a watan Nuwamba.,refutes,supports,0.41536283,0.20495456,0.37968263
+yoruba,"Ní ìwọ̀ oòrùn ìtà Ipetumodu ni ilé ìwé Federal Government Girl's College wà, èyí tó jẹ́ aládàá ní.",refutes,supports,0.5839287,0.19106655,0.22500478
+hausa,Sarauniyar yankin za ta ba da rabin garin ga duk wanda ya kashe macijin.,supports,supports,0.4098063,0.18267938,0.4075143
+igbo,"Naịjirịa bụ mba dị n'Afịrịka, nke ndị bi na ya si agbụrụ dị iche iche ma ọgbaghara na-adapụta mgbe ụfọdụ",nei,supports,0.3975334,0.35518345,0.24728313
+yoruba,"Àwọn abiyamọ tí ọmọ wọn ní ìpènijà ara máa ń la ọ̀pọ̀lọpọ̀ nǹkan kọjá, bẹ́ẹ̀ sì ni ìdojúkọ wọn pọ̀ rẹpẹtẹ nítorí ọ̀pọ̀ nǹkan ni ojú wọn máa ń rí.",supports,supports,0.5420401,0.24478121,0.2131787
+hausa,Mumini na gaske shi ne wanda baya cutar da muslumai.,nei,nei,0.39275992,0.18772621,0.41951388
+hausa,Murtala Muhammad ya girma a hannun kawunsa da ke zaune a jihar Kaduna.,nei,supports,0.4110369,0.18665235,0.40231073
+yoruba,Ìpínlẹ̀ Èkó ni ọkọ̀ Gómìnà náà ń lọ kí àwọn Boko Haram tó da ìbọ̀n lù wọ́n,refutes,refutes,0.21009731,0.42219344,0.36770928
+igbo,Nwa nwoke abaghị uru chacha. Ọ dịghị mkpa ịmụta nwa nwoke n'ezinụlọ ndị Igbo.,refutes,refutes,0.22448389,0.40091702,0.3745991
+igbo,Naanị ụmụnwaanyị ka a na-ebi ùgwù.,nei,nei,0.23279363,0.37232712,0.39487925
+igbo,Ha arụsịala ụlọ ahụ ha wuliri.,nei,refutes,0.075664245,0.4960352,0.42830062
+hausa,Bara wata sana'a ce da ta keɓanta ga ƙananan yara kawai.,refutes,nei,0.39731,0.1819902,0.42069978
+yoruba,"Nínú àtẹ̀jáde kan tí wọ́n fi síta fún àwọn oníròyìn, kò sí ẹnìkankan látìmọ́lé nínú àwọn olùwọ́de Endsars.",refutes,supports,0.5659774,0.24184515,0.19217743
+igbo,Sam Mbakwe si Imo Steeti gaa wube mahadum nke Anambara n'afọ 1981,refutes,refutes,0.1629312,0.42896047,0.4081083
+igbo,O nwere otu oge n'ala Igbo mgbe ndị mmadụ na-atụ ụjọ izu ihe mmadụ ibe ha maọbụ zọkọrọ oke abụghị nke ha.,supports,refutes,0.24207813,0.3976014,0.36032048
+igbo,Ndị mba ụwa ka na-enyocha etu ndị injinịa Biafra siri kpa ike ịrupụta ngwa agha n'oge agha Biafra nke 1967-1970.,nei,refutes,0.31916746,0.36281317,0.31801936
+hausa,Hukumar zaɓe zata raba manyan rumfunan zaɓe gida biyu saboda samun saukin gudanar jefa kuri'u.,supports,supports,0.4469784,0.18346693,0.36955473
+igbo,"Ndị Igbo nwere ihe ndị ha ji esi ji, nke mere na ha na-eri ya n'oge a na-eme mmemme Ofala",nei,supports,0.41948426,0.30533516,0.27518064
+hausa,"ƙuli-ƙuli ba a haɗa shi daga wake, in aka dafa sai an bari ya bushe.",nei,supports,0.42392117,0.16844022,0.40763867
+hausa,Jihohin Florida da Ohio na daga cikin manyan jihohin da duk wani ɗan takarar shugabancin kasar Amurka ke buƙatar ci don samun nasara.,supports,supports,0.41507116,0.20997848,0.37495038
+yoruba,Àga dúdú kò dára fún nílò níbi àwọn ètò tí ó bá ti nííṣe pẹ̀lú òrìṣà Ajé tàbí Ọ̀ṣun.,nei,supports,0.4948325,0.2432577,0.2619098
+igbo,E riela m osikapa na ofe.,nei,nei,0.25819585,0.35960048,0.3822037
+yoruba,Gbogbo àwọn Òyìnbó amúnisìn tí wọ́n wà níbẹ̀ ni wọ́n fara mọ́ àbá tí Ọọ̀ni dá.,nei,refutes,0.19170816,0.4477097,0.36058217
+igbo,Gọọmentị chọrọ ka e lie Mugabe ebe a na-eli ndị dike obodo mana Ezinụlọ Mugabe ekwenghị n'ihi na Mugabe gwara ha mgbe ọ dị ndụ ka ha lie ya n'akụkụ ala ili nna ya Bona.,supports,refutes,0.31474698,0.35049224,0.33476081
+igbo,Ichi e nwere n'ụlọakwụkwọ Abidịị buru ibu.,nei,nei,0.23171668,0.38303888,0.38524443
+yoruba,"Ọ̀rọ́ bẹ́yìn yọ Agbowu pe Olúwòó lẹ́jọ́, ó bèrè owó gbà mábínú lọ́wọ́ rẹ̀.",supports,supports,0.5520985,0.2793562,0.16854526
+igbo,Ọkaiwu Paul Achalla gwara ndị BBC Igbo na Nnamdị Kanụ dara Iwu Facebook ya mere e ji machie akantụ ya.,refutes,nei,0.27355072,0.3612203,0.365229
+hausa,Akwai mutane da suke ikirarin cewa su musulmai ne amma ba su yarda da hadisai ba.,nei,supports,0.424645,0.18083985,0.3945152
+igbo,Ji bụ nri ụmụ ntakịrị na-eri n'ụlọakwụkwọ ma e tinye ya beans na osikapa.,nei,refutes,0.22970027,0.39054245,0.3797573
+yoruba,"Ẹ̀sìn ìsìlámù níí ṣe pẹ̀lú àìṣòdodo, èyí sì ń darí gbogbo ènìyàn sí ohun tí yóò ṣe ànfààní fún wọn.",refutes,supports,0.5440621,0.21089329,0.24504465
+igbo,Igwe onyonyo nke Kanu Sports dị oke ọnụ n'ahịa.,nei,refutes,0.24796294,0.37695372,0.3750834
+yoruba,"Ìgè kú ní ọjọ́ kẹtàlélógún oṣù kejìlá, ọdún 2001 tí wọ́n fipá gba èmí rẹ̀.",supports,supports,0.60242534,0.18839307,0.20918159
+hausa,Muhammad Bello Yabo malami ne na ahlussunah da ke garin Sokoto.,nei,nei,0.30022427,0.28178015,0.41799554
+yoruba,Sunday Igboho tẹ̀lẹ̀ àwọn ọlọ́pàá lọ sí ilé Seriki ní Igangan pẹ̀lú ìgboyà lẹ́yìn tí wọ́n fi ẹ̀sùn jíjó ilè náà kàn án láti fi ìdí rẹ̀ múlẹ̀ pẹ́ òun kò mọ ohunkóhun nípa rẹ̀.,supports,supports,0.43773365,0.32171047,0.24055582
+hausa,An samar da gidan namun daji a Kano a shekarar alif 2000.,nei,nei,0.39743418,0.19335763,0.40920815
+igbo,Lawrence Ifeanyi Ugwuanyi bụ eze ọdịnaala ndị Ovoko dị n'ime ime obodo Igboeze Federal Constinuency nke Enugu State.,refutes,supports,0.4016256,0.3237461,0.27462834
+hausa,Duk abinda aka aikata a gaban Annabi (S.A.W) ya zama sunna.,refutes,nei,0.26933336,0.33819795,0.39246875
+igbo,Mba Nigeria nwere steeti iri atọ na isii ndị e ji ịrụ ọrụ na ịgba mbọ wee mara,nei,refutes,0.20875664,0.40146086,0.38978252
+yoruba,"Àwọn fídíò tó ń lọ káàkiri orí Íńtánẹ́ẹ̀tì fi hàn pé àwọn òṣìṣẹ́ ń jẹ́ kí àwọn àlejò pàtàkì fi ọwọ́ kan òkúta náà ní ìkọ̀kọ̀, èyí tó fi hàn pé níṣe ni wọ́n ya àwọn kan sọ́tọ̀ tí òfin náà ò lè múnáà sílò.",refutes,supports,0.54346645,0.23636357,0.22016998
+hausa,Kowacce ƙasa tana samun cigaba ne idan tanada tsaro sosai.,nei,nei,0.33274454,0.26276234,0.40449315
+igbo,"N'ime ụdị ihe abụọ e ji arụ ọja, nke na-aka anọte aka bụ nke osisi ",supports,supports,0.35549733,0.35295853,0.29154414
+igbo,Ji ahụrụ ahụ bụ ji e ji eme emume iri ji ọhụrụ.,supports,nei,0.21610232,0.3876728,0.39622495
+hausa,Gwamnatin Najeriya ce ta bada umarnin kashe Sheikh Ja'afar Mahmud Adam.,refutes,nei,0.40329704,0.18702748,0.4096755
+hausa,Talakawa da yawa suna rabauta da zakkar da masu kuɗin Kano ke fitarwa a lokacin azumin ramadana.,nei,supports,0.41909957,0.19766974,0.38323066
+hausa,Najeriya ƙasa ce da ta ke tutiya da arziƙin man fetur.,nei,nei,0.40660924,0.18272606,0.41066477
+yoruba,Àwọn ará-ìlú kọ̀ láti gbóríyìn fún Oṣinbajo fún iṣẹ́ takuntakun tó ṣe láti ri pé ètò ọrọ̀-ajé  ń lọ bó ṣe yẹ.,refutes,supports,0.49373168,0.25779107,0.24847718
+hausa,Goro ana yawan amfani da shi wajen shirya abin sha mai ɗanɗano wanda yake bada kuzari musamman ga matasa a Afirka.,nei,supports,0.41539678,0.19437568,0.3902276
+yoruba,"Eégún Alábala ni ó máa ń pidán, eégún Apẹ̀sà ni ó máa ń kọrin ki àwọn ènìyàn nígbà tí eégún Aláago jẹ́ eégún onífàájì",supports,supports,0.5385733,0.22431965,0.23710701
+hausa,Malaman makaranta guda 22000 ne suka rasa aiki sakamakon wani garanbawul da Nasir El-Rufa'i ya yiwa ma'aikatar ilimi a jihar Kaduna.,supports,supports,0.42124727,0.2076071,0.37114558
+igbo,Onye uweojii aha ya bụ Lukmon Akanbi agbagbuola otu nwaokorobịa ya na ya nwere nghọtahie na Legọọs Aịland ụbọchị Fraịde. Ndị uweojii kpere ya ikpe ma chụọ ya n'ọrụ.,supports,supports,0.47163638,0.2828367,0.2455269
+igbo,Abang kwuru na ya na ndị ọrụ ya ekeela nkwụcha ịhụ na ọgbatauhire ọbụla adịghị n'ụzọ ahụ n'izu a.,supports,refutes,0.21010602,0.3995711,0.39032295
+igbo,Alexander Ekwueme gụrụ akwụkwọ na Mahadum nke Nigeria ma nweta nzere Bachelo tupu ọ gawa ala Bekee,refutes,refutes,0.22295038,0.40480104,0.37224853
+yoruba,Táyé Taiwò gbá bọ́ọ̀lù nínú líìgì àgbábuta orílẹ̀-èdè South Africa fún ọdún márùn-ún.,refutes,refutes,0.22050445,0.46952954,0.30996603
+hausa,Ahmed Musa ya zura ƙwallaye biyu a nasarar Najeriya 2-0 akan Iceland a gasar cin kofin duniya ta 2018.,supports,supports,0.43641016,0.18468331,0.37890655
+yoruba,"Ìrẹsì aládùn kan tí à ń fi tòmátì, àlùbọ́sà àti àwọn amóúnjẹ-ta-sánsán sè ni jọ̀lọ́ọ̀fù jẹ́.",supports,supports,0.58029187,0.2353962,0.184312
+hausa,Jihar Katsina ta samu ayyukan ci gaba sosai loƙacin mulkin soja.,nei,supports,0.41607562,0.18462561,0.39929876
+hausa,Littafin Alƙur'ani mai girma ya ambaci Attaura sau goma sha takwas.,nei,nei,0.26946405,0.29901713,0.43151888
+hausa,Mabiya JIBWIS suna gudanar da taruka na koyan girki da zaman lafiya a cikin al’umma.,refutes,supports,0.4214382,0.19107652,0.3874853
+yoruba,Ìpínlẹ̀ Ọ̀yọ́ tó wà ní ìwọ̀ oòrùn orílẹ̀-èdè Nàìjíríà jẹ́ ọ̀kan nínú àwọn ìpínlẹ̀ mẹ́rindínlógójì tí orílẹ̀-èdè náà ni.,supports,supports,0.45919666,0.29852954,0.24227387
+igbo,Ndị na-akụ azụ na ndị na-eme njem ụgbọ mmiri na Mmiri Ọnụ Ọwarị Ọgbaru na-atụ ụtụ nye gọọmentị Anambara.,nei,refutes,0.25531495,0.4071342,0.3375509
+yoruba,Ìpínlẹ̀ Òndó tí a tún mọ̀ sí Sunshine State jẹ́ ọ̀kàndínlógún ìpínlẹ̀ tí àwọn èèyàn pọ̀ jùlọ lórílẹ̀-èdè.,supports,supports,0.4150542,0.36386704,0.22107878
+hausa,Allah ya karbi ran Ado Bayero a garin Landan bayan ya sha fama da rashin lafiya.,refutes,supports,0.42290038,0.18134171,0.39575794
+igbo,"Odumeje, Rita Edochie na Ada Jesus nwere nsogbu. Rita Edochie mechara gbaghara Ada Jesus ebubo niile o boro ya.",supports,supports,0.45419064,0.24388114,0.3019282
+yoruba,Ayọ̀deji Balogun kọ́kọ́ peregedé fún àmì ẹyẹ Grammy lọ́dún 2015,supports,refutes,0.24428445,0.39412868,0.3615868
+hausa,Awara abinci ne mai ɗanɗano wanda aka yi gaba ɗaya da alkama,refutes,supports,0.41215694,0.18099408,0.406849
+hausa,Dambe wasa ne na rukuni mai sauƙi wanda akeyi da ƙwallon ƙafa,refutes,supports,0.42064732,0.19048539,0.3888673
+yoruba,Gbogbo ọbẹ̀ ni wọ́n máa ń kọ́kọ́ ṣan ewé wọn kí wọ́n tó ṣàmúlò rẹ̀.,nei,refutes,0.27329263,0.38285676,0.3438506
+hausa,Yana da kyau mutane su ke yin bincike mai zurfi kafin su je baƙon wuri don yin hutu.,nei,supports,0.41583794,0.19592574,0.3882363
+hausa,Muhammadu Buhari ya shafe tsawon shekaru 8 yana mulkin Najeriya.,nei,nei,0.3473027,0.24187522,0.41082203
+yoruba,Ọjọ́ Ìṣẹ́gun ni àwọn oníròyìn gbé ìròyìn yìí síta nípa ilé alárinrin tí Aláàfin kọ fún àwọn olorì rẹ̀.,refutes,supports,0.44663,0.32478535,0.22858463
+yoruba,Ọgbẹ́ni Wọlé parọ́ fún màmá tí ó bá sọ̀rọ̀ lórí aago wípé òun wà ní kíláàsì.,nei,refutes,0.18882048,0.44791436,0.36326513
+hausa,Sheikh Ja'afar Mahmud Adam ya kasance ya na yin tafsirin alƙur'ani a duk ranar juma'a a masallacin Gadon ƙaya.,nei,supports,0.4428254,0.18732952,0.3698451
+hausa,Malamai su na jindaɗi sosai yayin da su ka ga ɗalibansu na samun cigaba a ɓangaren karatunsu.,nei,supports,0.41616854,0.20702888,0.37680253
+yoruba,"Wọ́n filé pọ̀ntí, wọ́n fọ̀nà rokà níbi ìgbéyàwó ọmọ Buhari, tí ọ̀pọ̀ ènìyàn sí péjú pésẹ síbẹ̀, láìbìkítà nípa àwọn ìlànà Covid-19.",refutes,supports,0.56850106,0.23898785,0.19251108
+yoruba,"Gbogbo igi ló ń juwọ́ sí Ọlọ́run Ọba, ewéko àti gbogbo àwọn ewé ilẹ̀ pátápátá.",nei,supports,0.5288313,0.2352028,0.23596588
+igbo,"Bianca Ojukwu bụ nwaanyị nke abụọ bụ onyeisi n'ụlọọrụ ""Nigerian Stock Exchange"" ",refutes,refutes,0.23546973,0.4055826,0.3589476
+yoruba,Kò sí nínú ìbúra àwọn olóṣèlú láti pèsè ààbò tó rinlẹ̀ fún àwọn ará ìlú.,refutes,refutes,0.19969396,0.47436595,0.32594013
+hausa,Masu kuɗi na iya kai zakkar su hukumar zakka da hubusi don a bayar da ita ga waɗanda su ka cancanta.,nei,supports,0.4234729,0.1911218,0.3854053
+yoruba,Oríṣi Gaàrí kan ló wà nílẹ̀ Yorùbá. Èyí sì ni Gaàrí ìjẹ̀bú.,refutes,supports,0.38029936,0.33680943,0.28289118
+igbo,Ndị Awụsa bụ ndị bi ne ebe ugwu nke Ọ̀hà Delta na Ọ̀hà Rivas,refutes,refutes,0.2453069,0.3897672,0.3649259
+hausa,Gidan Arewa gini ne da ya kasance wurin ajiyar kayan yaƙin turawan mulkin mallaka.,refutes,supports,0.41994378,0.18245956,0.3975967
+hausa,Ya halarta ayi sallah guda biyu da alwala ɗaya.,nei,nei,0.37983963,0.18732253,0.4328379
+hausa,Mai azumi na iya saduwa da iyalinsa kafin rana ta faɗi.,refutes,nei,0.36650598,0.19023924,0.44325483
+yoruba,Òpópónà tuntun tí wọn ń ṣe láti Èkó sí Calabar yóò jẹ́ kí ètò ọ̀rọ̀ ajé rú gọ́gọ́ síi.,nei,refutes,0.22759742,0.4539177,0.31848484
+hausa,An gina kasuwar kurmi a cikin gundumar sahara.,refutes,nei,0.39006445,0.19757426,0.41236132
+hausa,Mabiya addinin shi'a su na da karanci a Nigeria idan aka kwatanta su da 'yan darika.,nei,nei,0.3871395,0.1896134,0.42324713
+igbo,Otu ọgbọ bụ ndị na-ahụ na obodo gara nke ọma ma ndị ụmụnna nye iwu. Ha na-edebe obodo ọcha na-agakwa agha mgbe ọgụ dapụtara,supports,supports,0.45700336,0.23417278,0.30882388
+igbo,R.Kelly mara onwe ya ikpe n'ebubo niile e boro ya.,refutes,nei,0.2065007,0.38257942,0.41091985
+hausa,Sheikh Qaribullah ya auri mata biyu yana da shekaru ashirin da biyu.,nei,nei,0.40286815,0.18394712,0.4131847
+yoruba,Ìṣẹ̀lẹ̀ apànìyàn yìí wáyé ní ìlú Ìjẹ̀ṣà ní Ìdómínàà ní pàtó.,nei,refutes,0.31092265,0.41127902,0.27779832
+yoruba,Boko Haram ni wọ́n dá sílẹ̀ láti jẹ́ ẹgbẹ́ tí kì í ṣe oníwàhálà pẹ̀lú àfojúsùn láti ṣe àfọ̀mọ́ ìlànà ẹ̀sìn Islam ní ẹ̀kun Àríwá orílẹ̀-èdè Nàìjíríà.,supports,supports,0.46743482,0.28011185,0.2524533
+yoruba,"Nígbà ìbárà yìí,  àwọn láàárín Ìjẹ̀bú máa gbé oúnjẹ wá láti gba iyọ̀. ",supports,supports,0.5872662,0.23778093,0.1749529
+hausa,Bikin Argungu yana da tarihi tun daga 1934 kuma yana da muhimmanci ga tattalin arziki da al’ummar yankin.,supports,supports,0.41940582,0.18636191,0.3942323
+yoruba,Kìkìdá àwọn akẹ́kọ̀ọ́ tí wọ́n bá wúlò fún àwọn olùkọ wọn ni olùkọ́ yóò rántí wọn lákòókò tí wọ́n bá nílò wọn.,nei,refutes,0.3574705,0.36900643,0.27352306
+yoruba,"Mínísítà sọ pé ó dára kí á pa àgọ́ mẹ́ta, ṣùgbọ́n a ò ní fún Daud àti Lọ́ládé ni ọ̀kankan.",nei,supports,0.6363088,0.19735166,0.1663395
+igbo,Mary Udumeke na-agba mbọ na styeeti Anambra ịhụ na a kwụsịrị ibi ụmụ nwaanyị ugwu.,refutes,refutes,0.22422175,0.3967945,0.37898377
+yoruba,"Roqeeb Aderogba ní ìgbà mẹ́fà ọ̀tọ̀ọ̀tọ̀ ni òun kùnà láti ṣe dírónù, kó tó yege",nei,supports,0.5551315,0.28377753,0.16109103
+igbo,"Na 1957, Ozumba Mbadiwe weere ọkwa dịka ọka ikpe n'ụlọ ike kacha elu nke Naịjirịa. ",refutes,refutes,0.30672464,0.38409308,0.30918226
+hausa,Mutane da dama sunyi alhinin mutuwar Muhammad Auwal Albaniy Zariya.,nei,nei,0.34336022,0.2010788,0.45556095
+hausa,Hatsarin mota ne yayi sanadiyyar mutuwar Murtala Muhammad a Legas.,refutes,nei,0.37699333,0.21978241,0.40322426
+igbo,"Linnaeus bụ onye kewara unere n'ụdị abụọ, nke gụnyere Musa paradisiaca na Musa sapientum.",supports,supports,0.37401193,0.35078758,0.2752005
+hausa,Sheikh Abdullahi Uwais sannan likitan zuciya ne a garin Kano.,nei,nei,0.26372656,0.36805573,0.36821765
+igbo,Peter Obi na-enye ụlọakwukwọ dị iche iche onyinye ego kwa mgbe,nei,refutes,0.22347753,0.40183043,0.37469205
+yoruba,Ìròyìn fi lélè pé ìyanṣẹ́lódí náa yóò wá sópin nítorí àwọn ọmọ ẹgbẹ́ ASUU tí gba ohun tí ìjọba fi lélẹ̀.,refutes,supports,0.45402944,0.30123612,0.24473439
+hausa,Mamman Shata yana ɗaya daga cikin manyan mawaƙan da aka sani a ƙasashe da dama. 'Yan Arewa Ku Bar Barci na ɗaya daga cikin waƙoƙin Shata.,supports,supports,0.42168304,0.20732194,0.37099501
+hausa,Hukumar EFCC ta tuhumi Sule Lamido bisa satar kuɗin gwamnati a shekarar 2015.,supports,nei,0.3885362,0.20290253,0.4085613
+hausa,Ma su arziƙi za su iya karɓar zakka don su ƙara jari.,refutes,nei,0.3251271,0.269358,0.40551487
+hausa,An gina kasuwar kurmi a cikin gundumar Jakara.,supports,nei,0.40275583,0.18917048,0.40807372
+igbo,Edochie bụ onye Katọlik.,supports,nei,0.22814806,0.3757391,0.39611286
+igbo,Ndị ntọrị ga-enwetarịrị ụgwọ ọrụ ha.,nei,refutes,0.18389288,0.42510036,0.39100683
+hausa,Rabe-raben musulmi bai haifar da faruwar Shi’anci nan take ba.,refutes,nei,0.24972728,0.28142902,0.46884367
+hausa,Jihar Zamfara na fama da matsalar tsaro da har yanzu gwamnati ta kasa magancewa.,nei,nei,0.38888627,0.17958844,0.43152532
+igbo,"Agbụrụ ndị Yoroba nwere alụsi ha na-akpọ Sango, bụ nke ha hụrụ ka chi siri ike.",nei,refutes,0.30791017,0.40446523,0.28762463
+igbo,Akụkọ a ma ama na-ekwu na-ekwu na onye atọ a mara nke ọma n'Akwete bụ Dada Nwakata,refutes,refutes,0.18531549,0.41011035,0.40457416
+yoruba,"Agbábọ́ọ̀lù ọwọ́ ẹ̀yìn ni Táyé Taiwò, ó sì gbá bọ́ọ̀lù fún ikọ̀ orílẹ̀-èdè Nigeria.",supports,supports,0.5760472,0.24475408,0.17919871
+igbo,Site na nkwado ndị PDP mere Obaseki ji bụrụ gọvanọ Edo steeti.,supports,nei,0.24140185,0.3782903,0.3803079
+yoruba,Ìjọba Buhari ti ṣẹ́gun ogun Boko Haram pátá ní orílẹ̀-èdè Nàìjíríà.,refutes,refutes,0.34116638,0.38313267,0.27570093
+yoruba,"Lọ́wọ́ lọ́wọ́ báyìí, oríire ti gbé aláwo ire ko Adetutu, nígbà tí gbajú-gbajà olórin kan ní ilẹ̀ Amerika, ìyẹn Rihanna ṣe fèsì sí ọ̀rọ̀ rẹ̀ láti bá ṣiṣẹ́ pọ̀.",nei,supports,0.52003765,0.24390064,0.23606172
+yoruba,"Ní àwọn orílẹ̀-èdè kọ̀ọ̀kan tí wọ́n máa ń din ọ̀gẹ̀dẹ̀, wọ́n máa ń ya àwọn ọ̀gẹ̀dẹ̀ yìí sọ́tọ̀ sí èyí tó wà fún jíjẹ.",supports,supports,0.55507356,0.25811222,0.18681422
+hausa,Mata da yawa sun taru a kasuwar.,nei,nei,0.3596013,0.1979708,0.4424279
+hausa,Al-Qur’ani shine littafin Allah na ƙarshe kuma an saukar da shi a harshen Larabci ta hannun annabi SAW.,supports,supports,0.4243479,0.2019878,0.37366426
+yoruba,"Nínú ìgbàgbọ́ àwọn Yorùbá, wọ́n nígbàgbọ́ pé Olókun ni ìyá Ajé",supports,supports,0.40681586,0.36105922,0.23212492
+igbo,Ọ dịghị mkpa ka a kuziere ụmụaka otu e si akpata na otu e si emefu ego,refutes,nei,0.17135777,0.41320828,0.415434
+hausa,Mamma Shata shahararren makarancin alƙur'ani ne.,refutes,nei,0.20975767,0.37795535,0.41228703
+hausa,Babbar Sallar ita kawai mutane suna ziyartar juna.,refutes,nei,0.3329912,0.25591284,0.41109592
+yoruba,Martins jẹ́ ọ̀kan nínú àwọn agbábọ́ọ̀lù tí kò gbá bọ́ọ̀lù jẹun lórílẹ̀-èdè Germany rí.,refutes,refutes,0.22705877,0.4526147,0.32032654
+igbo,Chris Nwabueze Ngige laghachiri azụ bụrụ Gọvanọ mgbe ọ rụchara ọrụ dịka onye Omeiwu,refutes,refutes,0.21858826,0.40781945,0.3735923
+yoruba,Ilé ìfowópamọ́ àgbáyé tí ń ṣàkòóso àwọn ètò láti fi dínkù iye owó oúnjẹ lágbayé.,nei,supports,0.42401373,0.32924026,0.246746
+yoruba,Ìgbàgbọ́ àti ìmọ̀ lè jọra nínú ìmúṣẹ àmọ́ ìyàtọ̀ wọn wà ní ìlọ́po.,nei,refutes,0.24014078,0.44343767,0.31642154
+yoruba,Ẹbọ ọkùnrin àti obìnrin tí kò ní ìbálòpọ̀ rí ni wọ́n rú dènà ogun Fulani ní ìlú Ògbómọ̀ṣọ́.,nei,supports,0.38069266,0.3752884,0.24401896
+igbo,"A na-arụkari ọrụ ugbo n'ime ime obodo ma n'ala Igbo, obodo nile na-arụ oru ugbo, ma nwoke, nwanyi, okorobịa na agbọghọbịa.",supports,supports,0.5895162,0.18748379,0.22300005
+igbo,"Lawrence Ifeanyi Ugwuanyi gara ileta ndị ọrịa na-arụ ọrụ n'obi eze nke ndị Ovoko, n'Igboeze North.",nei,supports,0.5400504,0.223816,0.2361336
+hausa,Amurka na daga cikin ƙasashen da suke da ƙarfin sojoji a duniya,nei,nei,0.41325468,0.17300422,0.41374105
+hausa,Gidajen Talabijin da na radiyo ba sa amfani da kiɗa wurin gabatar da shirye-shiryensu.,refutes,supports,0.4083412,0.188348,0.4033108
+igbo,"Akanu Ibiam, n'agbanyeghị na ọ bụ onye ụlọ ụka Protestant, nyere aka n'ọrụ ụlọ uka Katọlik.",nei,supports,0.5123399,0.25550506,0.23215508
+igbo,Ha anaghị akwado ogige golf n'ọtụtụ ụlọ nkwarị,refutes,refutes,0.24311484,0.38672906,0.37015608
+yoruba,Kò sí ẹnìkankan níbẹ̀ nígbà tí Dauda gbé iṣẹ́ fún arábìnrin yìí.,nei,refutes,0.2574901,0.4470108,0.29549918
+yoruba,"Ọjọ́ kẹtàdínlọ́gbọ̀n, oṣù kẹta, ọdún 2020 ni òfin yìí ò ní ṣiṣẹ́ mọ́.",refutes,supports,0.61953187,0.213654,0.16681404
+hausa,A shekarar 2022 America ta fara ƙera motoci masu amfani da diesel.,nei,nei,0.3635672,0.18251002,0.45392278
+hausa,Dinki sana'a cewa mai wahala sosai.,nei,nei,0.3430439,0.25168878,0.40526736
+igbo,Sam Mbakwe bụ osote gọvanọ nke mbụ nke ndịda Naịjirịa n'afọ 1979. ,refutes,refutes,0.2224702,0.4005549,0.37697494
+hausa,Dajin Yankari ya fara ne daga kudancin Kano kuma ya kare a arewacin Jigawa.,refutes,nei,0.3988132,0.19844194,0.40274483
+hausa,Bincike ya nuna cewa anfi samun masu cututtukan sikila a arewacin Najeriya saboda rashin gwaji lokacin yin aure.,supports,supports,0.43616986,0.19666837,0.36716175
+yoruba,Ìlú Ilaro ní ìpínlẹ̀ Ògùn ni wọ́n bí Ọba Seriki Ifaremilekun Abass Williams Fagbemi sí.,supports,refutes,0.25177947,0.43309757,0.31512296
+igbo,Ndị amụsu anarana ndị Enugwu steeti obodo ha n'ike.,refutes,refutes,0.24847722,0.37685722,0.3746655
+igbo,Ozumba Mbadiwe wubere akwụkwọ mbipụta Native News mgbe ọ rụchara ọrụ ya dịka onye Minista n'afọ 1961,refutes,refutes,0.2013083,0.4250318,0.37365988
+igbo,"Ndị mmadụ na-achọ ịma ụfọdụ ihe gbasara njem ụgbala, nke mere ka Henrietta Yakubu kwuo na gọọmentị amachiela ndị mmadụ iji ụgbọala eme njem ugbua ruo ọnwa abụọ na-abịa.",refutes,supports,0.47895,0.26216072,0.25888932
+hausa,Sofia Sadek malama ce a makarantar firamare a ƙasar Tunisia.,refutes,supports,0.39906698,0.20868772,0.39224535
+yoruba,"Délànà gbà pé orírun gidi àwọn Ẹ̀gbá wá láti Ọ̀yọ́, ó sì fi kún un pé ọmọ àlè tàbí ẹrú ni Ẹ̀gbá tí kò ní orírun láti Ọ̀yọ́.",refutes,supports,0.5391376,0.24754715,0.21331531
+hausa,"Kananan hukumomin Dambatta, makoɗa da Minjibir na samun ruwan sha daga Thomas dam.",supports,supports,0.43284354,0.19881512,0.36834136
+hausa,Mutuwar mazaje na jefa matayensu cikin mummunan halin rayuwa.,supports,supports,0.41346192,0.18160464,0.40493336
+yoruba,"Kì í ṣe Wizkid nìkan ló jẹ́ olórin ẹlẹ́bùn àtinúdá ní orílẹ̀-èdè Nàìjíríà, àwọn olórin mìí tó tún ti di ìlúmọ̀ọ́ká ni Yemi Alade, Tekno, Falz, Olamide, Simi, Mr Eazi, Mologo àti Patoranking",supports,supports,0.5019181,0.24889497,0.24918689
+igbo,Lukmon Akanbi kwuru na nwaokorobịa ọ gbara egbe anwụghị anwụ.,refutes,refutes,0.24639608,0.37895697,0.37464696
+yoruba,Àwọn kọ̀m̀pútà tí wọn ń ṣe láyé òde òní ò dára tó àwọn ti àtijọ́.,nei,refutes,0.23903486,0.42012924,0.34083584
+yoruba,Ìròyìn lábẹ́ akọ́mọlédè àti àṣà sọ pẹ́ kí àwọn ènìyàn kọ́ ẹ̀kọ́ si nípa ààlọ́ nílẹ̀ Yorùbá,nei,refutes,0.22354594,0.46561924,0.3108348
+yoruba,Gbogbo àwọn ẹrú tí ó rà pátápátá ni wọ́n kó lọ sí òkè ọya.,nei,refutes,0.17928311,0.44420734,0.37650952
+hausa,Raƙumi na daga cikin dabbobi da su ke iya ɗaukan tsawon loƙaci ba tare da sun ci ko sun sha ba.,supports,supports,0.4204346,0.19530441,0.38426098
+hausa,Kalmar “tofu” ta Turanci ta samo asali ne daga yaren Faransanci,refutes,refutes,0.15746191,0.42241594,0.42012215
+igbo,"Na omenala Igbo, a na-atụ anya na onye ọbụla gbagooro afọ iri ise na itoolu ekwesịla ịmepụta ihe na ndụ ya. Mba ọbụrụ gbagooro afọ iri ise na itoolu ekwesịgo inwe ihe ha mepụtagooro. Ihe ndị a na-ele anya iji chọpụta ogo ha nọ gụnyere nrụrụaka, ụgwọ opekatampe were dịrị gawa.",supports,supports,0.513468,0.2311476,0.2553844
+yoruba,"Ní ọdún 2015 náà, ọ̀pọ̀ àwọn ìlú míràn ní ilẹ̀ Yorùbá tún ní ayẹyẹ ìyípadà ọba, tí wọ́n fi gbé àwọn ọba tuntun kalẹ̀ gẹ́gẹ́ bí àṣà wọn.",nei,supports,0.5461718,0.24772738,0.20610085
+hausa,Ibrahim Zakzaky ya na fita kasashen waje domin gabatar da makaloli a duk shekara.,nei,supports,0.41451812,0.18536372,0.40011814
+hausa,Abubakar Tafawa  Balewa ya riƙe muƙamin ministan Ayyuka da kuma Sufuri.,supports,supports,0.4076545,0.18635447,0.40599105
+yoruba,Kò sí ààmì kan pàtó láti fi hàn pé Èṣù máa ń tọ́ni sọ́nà ni.,refutes,refutes,0.18490589,0.48858285,0.32651132
+igbo,Ọ nweghị ihe e mebiri na Lekki Lagos.,refutes,nei,0.24752049,0.3682129,0.38426656
+yoruba,"Calcium, carbohydrate, àti proteins ni àwọn èròjà inú àkàrà tó lè múni sanra.",refutes,supports,0.40590852,0.29556185,0.2985296
+hausa,Trump ya goyi bayan 'yan kama karya a lokacin mulkinsa.,supports,nei,0.38065132,0.20518658,0.4141622
+igbo,Chinwoke Mbadinuju ji ọkwa dịka onye isi ndị amị n'oge Shehu Shagari bụ onye isi ala Naịjirịa.,refutes,refutes,0.22995001,0.40807736,0.3619726
+hausa,Mabiya Sunnah sun zaɓi Abubakar ya jagorance su saboda Annabi bai nuna wanda zai bi bayan sa ba.,supports,supports,0.4393117,0.18926853,0.3714197
+yoruba,"Àjọ ìṣọ̀kan àgbáyé sì ti kéde pé tí gbogbo àwùjọ àgbáyé bá ń fún ọmọ lọ́yàn, èyí lè doola ẹ̀mí tó tó ẹgbẹ̀rún lọ́nà ẹgbẹ̀rin.",supports,supports,0.5324973,0.23427716,0.23322555
+igbo,"BBC Igbo kwuru na ndị na-eso ha na Facebook sị na mmanya ọtọbịrịbịrị, azụ ndụ amịrị amị, data na mmanya beer. esoghi na ihe ndị na-enye ha obi aṅụrị. ",refutes,supports,0.54070604,0.23524472,0.22404926
+igbo,"Dr Tedros kwuru na n'izuụka abụọ gara aga, ndị na-ebutebeghị ọrịa ma a gụpụ Chaina dị mmaji iri na abụọ.",refutes,supports,0.4582554,0.31470305,0.22704153
+igbo,Nwoke ichi Ọzọ gosiri na onye ahụ amalitela ikwu okwu.,nei,nei,0.20609821,0.39665014,0.3972516
+igbo,Dave Adenuba bụ kọmishọna ndị Abịa Steeti gwara ndị gọọmentị Enugwu ka ha na-akwụ ndị Enugwu ụgwọ ọnwa oge kwesịrị.,refutes,refutes,0.19673945,0.41705406,0.3862065
+igbo,Ụfọdụ ụmụnwaanyị ka a na-awa afọ ma ha chọọ ịmụ nwa. Ụfọdụ na-amụrụ onwe ha nwa.,nei,nei,0.19149607,0.40180016,0.40670374
+yoruba,Kò sí ibi tí èèyàn ò lè gbojú omi dé ní gbogbo àgbáyé.,nei,refutes,0.28405142,0.38042253,0.33552605
+yoruba,Èdè Yorùbá àti èdè Kwa kò fi ibì kankan ní ìbátan rárá àti rárá.,refutes,supports,0.35003495,0.34725562,0.30270943
+yoruba,"Ní ilẹ̀ Yorùbá, láàárín ọdún 1988 sí ọdún 1999, wọ́n fi àwọn awo mẹ́ta ṣe olùdarí àwọn ẹgbẹ́ ọ̀tọ̀ọ̀tọ̀.",nei,supports,0.61318004,0.22765242,0.15916756
+hausa,Tarihi ya nuna cewa ba a jituwa tsakanin ƙasar Iran da ta Amurka.,nei,supports,0.41051888,0.1860255,0.40345562
+hausa,"20 ga watan Afrilu, 2025, darajar Naira ta karye zuwa ₦1,629 kan kowacce dala a kasuwar musayar kuɗi ta Najeriya.",nei,supports,0.44884586,0.19437294,0.35678113
+hausa,Jami'an gwamnati da yawa ba su bi ƙa'idar korona ba lokacin da aka yi jana'izar Abba Kyari.,supports,supports,0.41922468,0.1991364,0.38163894
+hausa,Raƙumi na iya tafiya a cikin hamada ko da ana iska mai karfi.,supports,nei,0.39100537,0.17937952,0.4296151
+hausa,Sir Ahmadu Bello bai samu shiga majalisar ƙasa a shekarar 1949 ba.,nei,nei,0.37173274,0.21437857,0.41388872
+igbo,Chibuike Rotimi Amaechi kwuru okwu n'afọ 2022 sị na agụmakwụkọ bara uru maka ụmụaka Nigeria,nei,refutes,0.20338678,0.41733778,0.3792754
+igbo,Ndị Anambra North na South nwere otu ụdị omenala e jiri mara ha,nei,nei,0.19834693,0.39555672,0.4060963
+igbo,"Rachael Okonkwo malitere ime ihe nkiri mgbe ọ bụ nwata, mana n'ihi Ọ naghị enweta ọrụ, ọ gbanwere ọrụ ya n'ịgba egwu.",supports,supports,0.5586171,0.21529321,0.22608972
+igbo,Wike gwara ha aṅala Nnadị Kanu nti.,refutes,nei,0.24936825,0.3736688,0.37696296
+igbo,Dora Akunyili bụ onye ji ọkwa mịnịsịta na-ahụ maka mgbasa ozi na Naiịjiria ruo ihe dị ka afọ abụọ,supports,refutes,0.19875897,0.4120058,0.38923526
+igbo,"N'ime ụdị ihe abụọ e ji arụ ọja, nke na-anaghị anọte aka bụ nke osisi",refutes,refutes,0.3484079,0.3597223,0.2918698
+igbo,Ndị agha U.S anwakpola ndị agha Naịjirịa. Gọọmentị Naịjirịa na-arịọ ka ndị amala Naịjirịa gbatara ha ọsọ enyemaka.,nei,nei,0.21994622,0.38962752,0.3904263
+igbo,"Gọọmentị Nigeria boro Nnamdị Kanụ ebubo aghụghọ, nwụchie ya ma jigide ya n'ụlọ mkpọrọ n'afọ 2015",supports,refutes,0.27483624,0.40306902,0.32209477
+yoruba,Bákan náà ni ìjínigbé ń wáyé ní ẹ̀kun Ààrin gbùngbùn Gúúsù orílẹ̀-èdè Nàìjíríà níbi tí wíwa epo rọ̀bì ti ń wáyé.,nei,supports,0.4429192,0.2983889,0.25869188
+yoruba,Fásítì Èkó ló jáwé borí nínú ìdíje pẹ̀lú àwọn ilé ẹ̀kọ́ gíga mẹ́wàá mìíràn.,nei,refutes,0.2673986,0.42402178,0.30857962
+igbo,Phyno chọburu ịbụ onye ọkwọ ụgbọ mmiri mana a gwara ya na ọ ga-abụ dọkịta.,supports,refutes,0.19440572,0.42086825,0.38472605
+yoruba,Gaàrí funfun àti Gaàrí yẹ́lò jẹ́ oríṣi Gaàrí méjì tó wà ní ìwọ̀ oòrùn orílẹ̀-èdè Nàìjíríà.,supports,supports,0.4965197,0.2788355,0.22464475
+hausa,Waƙa abu ne da ake yin shi domin fita daga cikin damuwa.,nei,nei,0.40061012,0.18206395,0.417326
+hausa,Tawagar yaƙin zaɓen Trump sun dage da kamfen a jihar Florida saboda muhimmanci ta wurin cin zaɓen shugaban ƙasa,supports,supports,0.4391213,0.17868061,0.382198
+igbo,"Emmanuel Nnamdị Ụba ji ọkwa dị ka Gọvanọ Anambra Steeti naanị ọnwa atọ, bido na April 2007 rue Juunu 2007",supports,refutes,0.3203395,0.36645576,0.3132047
+hausa,Anyi zargin cewa Shekarau ya na da hannu a cikin kisan da aka yi wa Sheikh Ja'afar Mahmud Adam.,supports,supports,0.41570753,0.20603329,0.3782592
+yoruba,Olóyè Ọbásanjọ́ jẹ́ ọ̀kan lára àwọn ọ̀gagun tí wọ́n fi ipá yọ kúrò nínú ipò. Ó sì ti dé ìgbà mẹ́ta tí Ọbásanjọ́ jẹ́ Ààrẹ orílẹ̀-èdè Nàìjíríà.,refutes,supports,0.48627323,0.28605223,0.2276745
+igbo,Mpaghara ọdịbendị na asụsụ nkịtị na ndịda bụ Ala Awụsa.,nei,refutes,0.24784243,0.38147238,0.37068516
+yoruba,"Ọba Wahab Kayode Oyedọtun ní Ọọ̀ni ti ìlú Ilé-Ifẹ̀ ló pe ìpàdé pàjáwìrì àwọn lọ́balọ́ba fún fún ìjíròrò, láti mọ ohun tó fa aáwọ̀ láàárín Olúwo àti Agbowu.",supports,supports,0.5428065,0.23631738,0.2208761
+yoruba,"BBC Yorùbá ṣe àgbéjáde fídíò kan láti fi tú àṣírí àwọn olùkọ́ tí wọ́n máa ń gbìyànjú láti ní ìbáṣepọ̀ pẹ̀lú àwọn akẹ́kọ̀ọ́ wọn, nítorí máàkì.",supports,supports,0.5424599,0.24163133,0.21590878
+igbo,Atụmatụ e mere n'afọ 2005 kwuru na ụmụanụmanụ bi na Awka Etiti.,nei,refutes,0.22796781,0.39652985,0.37550238
+yoruba,"Yàtọ́ sí oha tí jẹ́ orúkọ ọbẹ̀ náà, ó tún ní àwọn orúkọ oríṣi méjì tí wọ́n tún pe ọbẹ̀ náà. Àwọn ni, uha tabi ọbẹ̀ ora.",supports,supports,0.53990364,0.25318697,0.2069094
+hausa,An kashe Muhammad Auwal Albaniy Zaria tare da matarsa akan hanyarsa ta dawowa daga wurin tafsiri.,supports,supports,0.42754138,0.17525022,0.3972084
+igbo,"Na Republic Naịjirịa nke Abụọ, Alex Ifeanyichukwu Ekwueme ji ọkwa osote onyeisiala nke Naijiria site n'afọ 1979 ruo 1983",supports,supports,0.56961036,0.2145671,0.21582253
+yoruba,"Inú bíbélì ni a ti rí i tí wọ́n sọ pé ""Ó dára kí á pa àgọ́ mẹ́ta""",nei,refutes,0.18869963,0.42884186,0.38245848
+igbo,Igbo enweghi usoro ha si achị onwe ha. Ọgbaghara na-adị n'ala Igbo oge niile tupu ndị Bekee abịa.,refutes,refutes,0.22762224,0.39805266,0.3743251
+hausa,Tafkin Tiga na ɗaya daga cikin madatsun ruwan da aka gina a Kano don bunƙasa noman rani.,supports,supports,0.42159334,0.19894466,0.37946197
+hausa,Jonathan ya zama shigaban kasar Najeriya bayan rasuwar Umaru 'Yar'adua.,nei,nei,0.3592439,0.23100738,0.40974873
+igbo,Igbo-Ukwu bụ obodo ebe e gwupụtara ihe mgbe ochie ndị gosiri na omenala ha gụnyere ịrụ ọrụ ọla kọpa kamgbe 90 AD.,supports,supports,0.41582647,0.31135738,0.27281615
+hausa,Sani Abacha ya rasu a ƙasar Saudiyya lokacin da ya ke gudanar da aikin hajji.,refutes,supports,0.41651794,0.19831116,0.38517088
+yoruba,"Ní ọdún 2016, ilé aṣòfin àgbà kọ àbá Ààrẹ Buhari láti yá owó tó lé ní bílíọ̀nù mọ́kànlélọ́gbọ̀n Dọ́là ($29.9) láti ilẹ̀ òkèèrè.",supports,supports,0.51918304,0.2726178,0.20819917
+hausa,Bikin argungun yana jan hankalin masu yawon buɗe ido,nei,nei,0.20371208,0.384732,0.41155595
+igbo,Dave Adenuba amaghị ma o nwere ndị gọọmentị Anambra ji ụgwọ.,refutes,refutes,0.2495312,0.3825167,0.36795208
+yoruba,Àwọn ará àdúgbò náà fi tó àwọn oníroyìn létí pé Sunday Igboho ló rán awọn géńdé méjèèjì ọ̀hún láti lọ pa àwọn ènìyàn nípakúpa.,refutes,supports,0.46242884,0.30233848,0.23523265
+yoruba,"Títóbi ìpínlẹ̀ Ọ̀yọ́ tó nǹkan bí i 28,454 kìlómítà, ó sì wà ní ipò kéjìlà nípa fífẹ̀.",refutes,supports,0.6239979,0.21700867,0.15899345
+hausa,An bawa Isah Ali Ibrahim Pantami muƙamin ministan sadarwa a loƙacin da Buhari ya ci zaɓensa karo na biyu.,supports,supports,0.4201563,0.19920875,0.3806349
+hausa,Mawaki Mamman Shata ya ce Magaji Salam ne ya fara saka ma sa sunan Shata.,supports,nei,0.24169533,0.36642602,0.39187866
+igbo,Gọọmentị tụrụ ụmụ ntorobịa isii na-atọrọ ndị mmadụ nga n'ihi na ha na-emegide nchekwa obodo.,nei,refutes,0.23871867,0.39277843,0.36850294
+yoruba,Sunday Igboho àti Babatunde Arowolo lọ́ farahàn níbi ti àwọn ọmọ onílẹ̀ ti ń ṣọṣẹ́ láti gba àwọn èèyàn Soka ní ìlú Ìbàdàn sílẹ̀.,supports,supports,0.49719352,0.27395052,0.22885603
+hausa,Ado Bayero ya rasu a shekarar 2014 bayan ya shafe sama da shekaru 50 ya na mulki.,supports,supports,0.41472936,0.19178936,0.39348128
+hausa,Marigayi Umaru Musa 'Yar'aduwa ya kasance shugaban ƙasa da ya kwatanta adalci sosai lokacin mulkinsa.,nei,supports,0.41519347,0.2070437,0.37776282
+yoruba,"Ìwó tún ní àwọn agbègbè ìjọba ìbílẹ̀ mẹ́rin mìíràn, èyí tó yàtọ sí àwọn yòókù.",supports,supports,0.5968072,0.25062042,0.1525724
+igbo,Mpaghara ndịda Anambara Steeti na na-eti mkpu banyere ike mbuze na-akpa na mpaghara ha kamgbe afọ 2011.,nei,refutes,0.1834361,0.4224944,0.39406943
+hausa,"Yahya Jammeh shugaba ne da aka yi masa shaidar nisantar aikata laifuka, musamman laifin cin zarafi.",refutes,supports,0.44609776,0.18240094,0.37150127
+yoruba,"Àwọn orúkọ méjì ni a pa pọ̀ tí ó fi di ""AJẸ́BU-OLÓDE"" èyí tí a mọ̀ sí ÌJẸ̀BÚ-ÒDE títí di òní.",supports,supports,0.48742554,0.31452188,0.19805254
+yoruba,"Ìjínigbé àti ìwà ọ̀daràn ń pọ̀ si ní ìpínlẹ̀ Oǹdó, pàápàá jùlọ ní ìlú Ọ̀wọ̀.",supports,supports,0.6103386,0.24157122,0.14809017
+igbo,"Nwankwo Kanu abụghị otu n'ime ndị egwuregwu ole na ole meriri Premier League, FA Cup, Champions League, UEFA Cup na Olympic Gold Medal.",refutes,supports,0.5329842,0.20218003,0.26483583
+yoruba,Kò sí ẹ̀yà kankan tí ó ń jẹ́ Àkókó nínú àwọn ẹ̀yà Yorùbá.,refutes,refutes,0.21180919,0.43531883,0.35287192
+igbo,Mahadum Imo steeti na nke Abia Steeti na-enweta enyemaka ego site n'aka ndị nne nke ụka Catholic na Anglịcan,nei,refutes,0.2166712,0.42654747,0.3567813
+igbo,Dora Akunyili jibu ọkwa daịrekụtọ jenaralụ n'ụlọ-ọru na-ahụ maka mmepụta na nkesa ọgwụ n'ụdị kwesịrị ekwesị n'ime Naịjirịa.,supports,supports,0.4248545,0.20741072,0.36773482
+yoruba,Yóò tó bí ẹgbẹ̀rún mẹ́wàá ọdún sẹ́yìn ni àwọn èdè bẹ̀rẹ̀ sí ní yapa síra wọn lọ́tọ̀ọ̀tọ̀.,refutes,refutes,0.29511288,0.4344081,0.27047902
+hausa,Sojojin Najeriya sun nuna bajimta sosai a yaƙi da boko-haram.,nei,supports,0.4128763,0.19302137,0.3941023
+hausa,Shugaban kasa Muhammadu Buhari ya je ziyarar aiki kasar China a shekar 2016.,nei,nei,0.38350278,0.20595822,0.41053903
+igbo,Nnadị Kanu gwara ndị Ipob ha aṅala ihe Wike na-ekwu ntị.,supports,refutes,0.19811255,0.40758976,0.39429766
+hausa,Jam'iyyar APC ce ta tsayar da Sule Lamido takarar gwamnan jigawa a shekarar 2007.,refutes,supports,0.40803143,0.19769117,0.39427736
+hausa,Gwamna Shema ya samu lambar yabo ta girmamawa daga hukumar EFCC.,refutes,nei,0.35372317,0.21780236,0.42847446
+hausa,"Dambe ya samo asali ne daga al’adun gungun mahauta, wadanda su ne ke shiga gasa, suna ƙalubalantar sauran maza a yankinsu.",supports,supports,0.45590192,0.19409575,0.3500023
+yoruba,Mínísítà fún ètò ìbánisọ̀rọ̀ ní Nàìjíríà tele ni Adebayo Shittu je. Ó sì wà lábẹ́ Ààrẹ tó wà nípò ní àkókò náà.,supports,supports,0.57793415,0.23060724,0.1914586
+hausa,Tarihin siyasar Musulunci ya shafi yadda ake fahimtar shugabanci da biyayya a cikin al’umma.,supports,supports,0.42512873,0.1879056,0.38696566
+igbo,E nwere steeti iri abụọ na asatọ na Naijirịa.,nei,nei,0.24519666,0.3726941,0.38210922
+yoruba,NIN ò fi bẹ́ẹ̀ wúlò láti gba ìwé-ẹ̀rí fún ọkọ̀ wíwà.,refutes,refutes,0.2231013,0.43887722,0.33802143
+igbo,"Ákàrà nsibiri dị puku, nke há mà dị 500 nke ha détùrù",supports,refutes,0.33969977,0.34870675,0.31159347
+yoruba,Àwọn ọmọ ẹgbẹ́ Ebila gbìyànjú láti fi àdá ṣá Ekugbemi àmọ́ àdá náà ò ràn án àfi ìgbà tí wọ́n ṣe nǹkan sí ara àdá náà.,nei,supports,0.47413668,0.27154028,0.2543231
+igbo,"I rie ji a sụrụ asụ na ofe nsala, ị gaghị achọzị osikapa a i na-eri.",nei,refutes,0.3311648,0.39165968,0.27717546
+yoruba,Àìbìkítà awakọ̀ yìí ló mú kí àwọn ajínigbé rí Rẹ̀mí àti àwọn ènìyàn tó kú tó wà nínú ọkọ̀ náà mú.,refutes,supports,0.38708103,0.3389654,0.2739536
+hausa,Ahmed Musa ya zura ƙwallaye biyu a wasan Najeriya da Argentina a gasar cin kofin duniya ta 2014.,supports,supports,0.41416988,0.19706567,0.3887644
+igbo,Ndị ji ọkwa Dọvanọ na Naịjirịa na-enye ndị ọka ike aka azụ ka ha kwụnyere ha mgbe ha na-ekpe ikpe.,nei,nei,0.2496902,0.36856177,0.38174802
+igbo,Na Steeti Ebonyi Mary Udumeke na-agba mbọ ịhụ na a kwụsị ibi ụmụnwaanyị ugwu na steeti ya. Ọ na-agba mbọ ịhụ na iwu kwadoro nke a. Steeti Abịa na Imo ebinyebeghi aka na nkwado iwu a.,supports,supports,0.4571698,0.2559248,0.2869054
+yoruba,"Àwọn ọmọdé fẹ́ràn láti máa yí kẹ̀kẹ́, wọ́n sì máa ń ṣe láti orí ẹnìkan sí èkejì ni, títí yóò fi kárí àwọn tókù.",nei,supports,0.56322026,0.23494473,0.20183502
+yoruba,Olóyè Ògúnwán̄dé Abím̄bọ́lá jẹ́ akọ́ṣẹ́mọṣẹ́ dókítà alábẹ́rẹ́ ní ilé ìwòsàn UCH ní ìlú Ìbàdàn.,refutes,supports,0.46558112,0.30501932,0.22939958
+igbo,Nje Ebola abatala Czech Republic. Onyeisiala mba Czech Republic  gwara ndị BBC nke a.,nei,nei,0.35117066,0.29536173,0.35346764
+yoruba,Orílẹ̀-èdè Brazil kò ní ìbátan pẹ̀lú àwùjọ àwọn Aláwọ̀ dúdú.,refutes,refutes,0.21614437,0.42295253,0.36090308
+yoruba,Gbogbo ẹrú pátá ni kò ní ìbọ̀wọ̀ fún nítorí pé ó jẹ́ ohun ìtìjú.,nei,refutes,0.24358243,0.41404128,0.3423763
+yoruba,Neo àti Vee nìkan ni olólùfẹ́ méjì tí idà Big Brother kò tí ì bẹ́ ìrẹ́pọ̀ wọn sí méjì.,nei,refutes,0.24721977,0.45651206,0.2962682
+yoruba,Davido fi ọkọ̀ Porsche ṣe ayẹyẹ ọjọ́ ìbí fún Chioma,nei,refutes,0.23629819,0.39816186,0.36553994
+hausa,Wasu yankuna a Arewacin Najeriya  ko soke al'adar lefe saboda suna ganin baya da wani amfani,nei,supports,0.42223778,0.18597072,0.3917915
+hausa,"Wasa ƙwaƙwalwa da kacici-kacici ana yin sune ta sigar tambaya ko magana a zube, sai dai kawai kacici-kacici ana cewa ""Kacici-Kacici"" a farko.",supports,supports,0.43498597,0.20327766,0.36173636
+yoruba,Ìlú Àkókó jẹ́ ìlú kan tí ó kalẹ̀ sí agbègbè Àríwá àti Ìlà oòrùn ìpínlẹ̀ Oǹdó.,supports,refutes,0.26743966,0.45209152,0.28046885
+igbo,Oyi bụ ebe obibi nke ndị Oyi,supports,nei,0.2385049,0.37836888,0.3831262
+igbo,"Ndị e ji egwu Igbo haịlaịf kacha mara gụnyere Chiifụ Stephen Osita Ọsadebe, Oliver De Coque, Ali Chukwuma, , Sir Warrior, Oriental Brothers, Ikem Mazeli.",supports,supports,0.54542845,0.20568234,0.2488892
+igbo,Ego mmefu na ego mbite Gọọmentị na-arị elu mana akpaego gọọmentị erubeghi ihe ihe o kwesịrị kemgbe afọ 2025. Nke a egbochighi onyeisiala Naịjirịa ikele ụlọọrụ na-elekọta ụgwọ ụtụ maka iwulite ọnọọgụgụ ndị na-atụ ụtụ.,supports,supports,0.5259619,0.26315278,0.21088538
+igbo,Okigbo bi ndụ ya niile n'ọdụ ahịa.,supports,refutes,0.20971648,0.39526328,0.39502025
+igbo,Henrietta Yakubu gwara ndị na-eme njem ụgbọelu ka ha na-eyichi ahụ ha nke ọma maka oyi.,refutes,nei,0.24639155,0.372693,0.3809155
+hausa,Sojoji ne suka hamɓarar da gamnatin Shehu Shagari a shekarar 1983.,supports,supports,0.41513488,0.19671275,0.3881524
+yoruba,"Bí a bá n sọ̀rọ̀ nípa Ìsàlẹ̀ Èkó, oríṣi afárá ńlá ńlá mẹ́tà ló ní tí ó fi já pọ̀ mọ́ mainland. Àwọn afárá wọ̀nyí ni, afárá kìíní, afárá kejì, àti afárá kẹta.",supports,supports,0.51384175,0.23347151,0.2526867
+yoruba,Ibrahin àti Ismael gbà wọ́n sì juwọ́ jusẹ̀ fún Ọlọ́run wọn Allah.,supports,refutes,0.31258583,0.37398836,0.31342575
+igbo,Ndị Anambra East gwara ndị gọọmentị Steeti Anambra ka ha gbatara ha ọsọ enyemaka n'ihi na agụọ na mmiri adịghị ọcha na-achọ ikpochapụ ndụ ha.,nei,refutes,0.22816071,0.3875894,0.38424993
+yoruba,Ìròyìn fi lélẹ̀ pé Ààrẹ Muhammadu Buhari ti dé sí Gbọ̀gàn ìdìbò,nei,refutes,0.18911818,0.4828546,0.32802728
+yoruba,"Sheik Muideen Ajani Bello ló wàásù níbí ìsìnkú Ajimobi, tí ó sì gbóríyìn fún Ajimobi gẹ́gẹ́ bí ẹni tí ó bẹ̀rù Ọlọ́run, tí ó sì rọ gbogbo ènìyàn láti ronúpìwàdà, bẹ́ẹ̀ sì ni ó gbàdúrà pé kí Ọlọ́run san án fun gẹ́gẹ́ bí iṣẹ́ ọwọ́ rẹ̀.",supports,supports,0.5342163,0.22934417,0.23643951
+yoruba,Ìpínlẹ̀ Èkìtì tí ó wà ní apá ìwọ̀ oòrùn jẹ́ ìdásílẹ̀ pẹ̀lú àwọn ìpínlẹ̀ tuntun márùn-ún mìíràn.,supports,supports,0.45886865,0.31866625,0.22246519
+yoruba,Alaga Hajj ni Naijiria ni inú wọn kò dùn sí bí Hajj kò ṣe ní wáyé ní ọdún 2020.,nei,refutes,0.26000872,0.4068372,0.33315408
+yoruba,Ilé ìwé Girama Badagry Grammar School ni wọ́n ti ṣe ayẹyẹ Àgbádá-rìgì tó kọjá.,supports,refutes,0.3431589,0.35421395,0.30262712
+hausa,Sheikh Qaribullah ya auri mata biyu yana da shekaru ashirin da biyu.,supports,nei,0.40286815,0.18394712,0.4131847
+yoruba,Ọ̀kan nínú àwọn nǹkan tí ó wọ́pọ̀ nínú àwùjọ àwọn elédè Spanish àti ẹ̀sìn àwọn Cuban ni Aganjú.,supports,refutes,0.25306192,0.4474806,0.29945752
+yoruba,Láàárín àwọn etíkun mẹ́ta ni Ìlú Badagry wà.,nei,refutes,0.1874327,0.41171417,0.40085316
+igbo,Ọchịchị ime obodo a akaghị ịdị ire ma ọ bụrụ na ọ nweghị obodo mebere ya.,nei,refutes,0.24928378,0.37541083,0.37530535
+igbo,Ala Igbo bụ sọ mma.,nei,nei,0.2255025,0.38290948,0.39158803
+igbo,"Ogwashi Uku dị na mpaghara Anaocha nke Anambara steeti ma nwee ihe erughị mmadụ puku iri ise, narị abụọ na iri atọ na anọ.",refutes,supports,0.555557,0.18612655,0.2583164
+igbo,N'ụlọ ọba ego ka Peter Obi na-arụ ọrụ tupu ọ banye na ndọrọ ndọrọ ọchịchị,supports,refutes,0.24974476,0.3783308,0.3719245
+hausa,Muhammadu Buhari ya yi mulkin Nigeria a matsayin shugaban kasa na farar hula daga shekara 2015 zuwa shekarar 2023.,supports,supports,0.44800717,0.17475377,0.37723908
+igbo,Ndị Ideato South bụ ndị na-emepụta ihe a na-ere ere na nke a na-eri eri,supports,nei,0.22998145,0.38317788,0.38684067
+yoruba,"Ìgbẹ̀mí ara-ẹni pọ̀ gidi gan-an ní orílẹ̀-èdè Amẹ́ríkà, ìwádìí sì fi lélẹ̀ pé èyí wọ́pọ̀ láàárín àwọn ènìyàn tó ti fìgbà kan ni àìsàn ọpọlọ.",supports,supports,0.5361716,0.23114924,0.23267913
+yoruba,"Síbẹ̀, ìgbàgbọ́ wọn nípa Jésù ò yàtọ̀ síra nítorí gbogbo wọn ló gbà pé olùgbàlà ni Jésù.",refutes,supports,0.6031868,0.23979764,0.15701562
+yoruba,"Ìjọba ìpínlẹ̀ Ọ̀yọ́ rán àwọn ọlọ́pàá sí agbègbè tí àwọn ọmọ onílẹ̀ ti ń ṣọṣẹ́ yìí, tí wọ́n sì kó àwọn jàǹdùkú náà lọ sí àgọ́ ọlọ́pàá lá ti fi wọ́n sí àtìmọ́lẹ́. ",nei,supports,0.5434805,0.24839148,0.20812802
+hausa,Mista Jonathan ya zargin Obama da David Cameron da yunƙurin kifar da gwamnatinsa.,supports,nei,0.40144438,0.18365729,0.41489834
+yoruba,"Jọ̀lọ́ọ̀fù jẹ́ oúnjẹ kan tí kò nílò iyọ̀, magí, kọrí tàbí táìmù láti sè é.",refutes,supports,0.60130715,0.22483106,0.17386171
+yoruba,Sanusi ṣàlàyé pé Ọlọ́run ti kọ ọ́ wí pé òun yóò jẹ́ Ọba Kano bẹ́ẹ̀ náà sì ni àkọsílẹ̀ wà wí pé wọn yóò yọ òun.,supports,supports,0.49977335,0.2715392,0.22868739
+igbo,"Osikapa bụ otu nri ga-abụ ihe kọgodu gị elu kọọ gị ala, i gote ya, ị ga-atụkwasịnwu ya ihe ọbụla were rie ya.",supports,supports,0.54503137,0.2471151,0.20785357
+hausa,Zuwan turawan mulkin mallaka ya taimaka wurin musuluntar sarakunan gargajiya na Kano.,refutes,supports,0.41883558,0.19888172,0.3822827
+igbo,Ndị niile jigoro ọkwa onye isi ọrụ ndị Amị (COAS) nke Naịjirịa na ndị ezinụlọ ha na-aga ala bekee ga biri.,nei,refutes,0.21187666,0.43520737,0.35291594
+igbo,"Nwankwo Kanu abụghị onye nwe igwe onyonyo nke Kanu Sports, ụlọ ọrụ igwe onyonyo egwuregwu Ịntanetị.",refutes,supports,0.5195524,0.25367895,0.22676872
+yoruba,Orílẹ̀-èdè Nàìjíríà jẹ́ mímọ̀ fún àwọn àṣà ní mèremère.,nei,refutes,0.23884587,0.44982576,0.3113284
+hausa,An haifi shehu Shagari a watan Mayu na shekarar 1960.,refutes,supports,0.41161597,0.18284291,0.40554115
+yoruba,"Ní ọdún 2006, àpapọ̀ iye enìyàn tó wà ní Àgbádárìgì jẹ́ 241,093 gẹ́gẹ́ bí ètò ìkànìyàn.",supports,refutes,0.37293157,0.37626937,0.2507991
+yoruba,Iṣẹ́ ẹrú ni Abass Williams ṣe títí tó fi kú láìní àkójọ kankan.,refutes,refutes,0.2609292,0.4187131,0.3203577
+igbo,Ndị Ideato South abụghịkwa ndị ahịa.,refutes,refutes,0.10946838,0.44706166,0.44346997
+igbo,Ndị omeiwu Naịjirịa kwadoro onyeisiala bụ Buhari ibite egoijeri dọla iri abụọ na abụọ na ụma asaa.,supports,refutes,0.23696414,0.38722017,0.37581566
+hausa,Masanin tarihin abinci da aikin gona James C. McCann ya ba da shawarar cewa tasa shinkafar ta yaɗu tare da masarautar Mali,supports,supports,0.4235669,0.19565967,0.38077337
+hausa,Shirin nukiliya na ƙasar irn shi ne babban dalilin da yasa Amurka ke yawan saka mata takunkumin tallalin arziƙi.,supports,supports,0.41798043,0.20740001,0.3746195
+hausa,Shinkafa da wake da masara na daga cikin kayan abincin da aka fi nomawa loƙacin rani.,nei,supports,0.4182001,0.19567704,0.38612285
+yoruba,"Nígbà tí Olúwọlé máa kú, gbogbo ẹran ara rẹ̀ ló fọ́nká yẹ́lẹyẹ̀lẹ.",supports,supports,0.436508,0.34777483,0.21571717
+yoruba,"Àwọn ìjọ onígbàgbọ́ ọlọ́kan-ò-jọ̀kan ní orísìírísìí ìtumọ̀ fún Bíbélì, a sì rí ipa èyí nínú ìyàtọ̀ tí ó wà nínú ìlànà ẹ̀sìn tí ìjọ kọ̀ọ̀kan ní.",supports,supports,0.5411599,0.24577762,0.21306238
+hausa,"A al’adar Hausawa a wasu yankuna, ana gudanar da raɗin suna ne a kwanaki bakwai bayan haihuwa",nei,supports,0.43990728,0.19321306,0.3668797
+hausa,Aminu Bello Masari ya yi kwamishina a jihar Katsina loƙacin mulkin soja daga shekarar alif 1991 zuwa 1993.,supports,supports,0.44504133,0.18469481,0.37026387
+igbo,Mmiri na-agba na mpaghara anyị ruru inyi.,nei,nei,0.2555095,0.36416706,0.3803235
+hausa,Abubakar Gumi mutun ya kasance daya daga cikin malaman Izala da ake alfahari da su.,nei,nei,0.40673324,0.18271123,0.4105555
+yoruba,Coronavirun kò ṣe àkóbá kankan fún ètò ọrọ̀-ajé.,refutes,refutes,0.20958531,0.42271397,0.3677007
+yoruba,Ẹgbẹ́ agbábọ́ọ̀lù Chelsea kò sí lára àwọn ẹgbẹ́ tó darapọ̀ mọ́ líìgì tuntun náà.,refutes,refutes,0.22318126,0.42535198,0.35146677
+igbo,ECOWAS họpụtara Ike Ekweremadu dị ka onye ndu kọmitii pụrụ iche iji rụ ọrụ maka nlọghachi usoro iwu,supports,refutes,0.20928238,0.40548885,0.3852288
+yoruba,"Bíbélì wípé gbogbo ènìyàn ló ti ṣẹ̀, tí ó sì tì kùnà ògo Ọlọ́run.",supports,supports,0.5619693,0.2127374,0.2252933
+hausa,Tuwon kyakkyawan abunci ne mai laushi aka shirya daga shinkafa ta gida wanda yake da taushi,supports,supports,0.40828177,0.20719492,0.38452327
+hausa,Bashir Ahmad ne ya sanar da komawar Bello Matawalle zuwa jam'iyyar APC ranar 27 ga watan Yuni.,supports,supports,0.42412877,0.18994758,0.38592362
+hausa,"A cikin Maguzawan Zamfara, iyalai na yin raɗin suna ga yaro ko ba a shirya ba",supports,supports,0.4438001,0.19318148,0.36301845
+hausa,Sallah ta na cika ne idan mutum ya karanta fatiha a cikin kowacce raka'a.,nei,supports,0.43264154,0.18729208,0.3800664
+hausa,An gina sababbin filayen ƙwallon kafa a Lagos zamanin mulkin Sani Abacha.,nei,supports,0.43898833,0.20264024,0.3583714
+yoruba,"Bákan náà ni Aláàfin kọ lẹ́ta sí Ààrẹ Muhammadu Buhari lórí ètò ààbò nílẹ̀ Yorùbá, nínú èyí tó ti sọ fún Ààrẹ pé kó fi òpin sí bí àwọn kan ṣe nh kọlu ilẹ̀ Yorùbá.",nei,supports,0.5345343,0.24303302,0.2224327
+hausa,Maguzawa na amfani da kayan al'adu don mallakar aljanu kafin zuwan musulunci.,supports,supports,0.4072514,0.18574037,0.40700823
+igbo,Ọ nweghịzị onye bi n'Ọ̀hà Rivas.,nei,refutes,0.15682507,0.44872102,0.39445388
+igbo,Dr Tedros kwuru na ụfọdụ mba enweghị ndị ọrụ doro anya.,supports,refutes,0.246214,0.38070804,0.3730779
+hausa,Musulmai suna gudanar da sallar kullum sau biyar don nuna biyayya ga koyarwar Alƙur’ani.,nei,supports,0.4187988,0.19112027,0.39008096
+hausa,An yi hasashen cewa fitar 'yan majalisu da gwamnoni daga jam'iyyar APC na iya zama barazana ga nasarar Muhammadu Buhari a zaɓen shekarar 2015.,refutes,supports,0.42117727,0.2046025,0.3742202
+igbo,Akara Nollywood nwere ike itolite na ịgbasị ike site n'ihe nkiri na-atọ ọchị.,supports,nei,0.22062221,0.38172874,0.39764902
+yoruba,"Àwọn tó ṣe màgòmágó nínú ètò ìdìbò ọdún 2019 fara ire lọ, láì gba ìdájọ́ tó yẹ, bẹ́ẹ̀ sì ni ilé-ẹjọ́ ò rí ohunkóhun ṣe sí àṣìṣe INEC.",refutes,supports,0.5443861,0.23000515,0.22560877
+yoruba,Nínú àwọn ilẹ̀ omi nìkan ni igi ọ̀gẹ̀dẹ̀ ti lè hù.,refutes,refutes,0.21661499,0.41996333,0.36342174
+yoruba,"Bí ifá tí a bá dá fún èèyàn bá ṣè aburú nìkan ni ẹbọ rírú ṣe pàtàkì. Àìjẹ́ bẹ́ẹ̀, kò nílò.",refutes,supports,0.53355944,0.20751186,0.2589287
+yoruba,"Wọ́n fi ẹ̀sùn owó kíkójẹ àti ṣíṣẹ owó báṣubàṣụ kan Emir, ìdí nìyí tí wọ́n fi yọ ọ́ nípò.",refutes,supports,0.5908797,0.21860383,0.19051647
+hausa,Isah Ali Ibrahim Pantami ɗaya ne daga cikin masu hannun jari a hukumar kula da hanyoyin sadarwa na zamani ta Najeriya.,nei,supports,0.42839238,0.19081442,0.38079315
+igbo,E ji izu ihe mmadụ maọbụ ịnapụ mmadụ oke ruru ya mara ndị Igbo kemgbe elu bụ ala ọsa.,refutes,refutes,0.20720051,0.40917096,0.38362852
+hausa,Duk inda ka samu masallaci za ka ga tsarin ginin iri daya ne da na ƙasar Saudiyya.,refutes,supports,0.4205497,0.19637074,0.3830796
+hausa,Abba Kabir Yusuf ya dawo da Sunusi Lamido Sunusi a matsayin Sarkin Kano a watan Mayu na shekarar 2024.,supports,supports,0.4118252,0.20394672,0.38422805
+hausa,Samun muƙamin manjo na ɗaya daga cikin burin kowanne soja.,nei,supports,0.42664832,0.17881012,0.39454156
+yoruba,"Elike Chibuzor ni orúkọ arákùnrin tí ọwọ́ àwọn ọlọ́pàá tẹ̀, tó ní òun lòun jí ọmọ tí wọ́n ń wa gbé.",supports,supports,0.53770334,0.27520856,0.18708807
+hausa,Gwamnan Kano ya bawa Sunusi Lamido Sunusi muƙamin kwamishina a shekarar 2024.,refutes,supports,0.41107687,0.19298653,0.39593658
+yoruba,Ìjọ̀ba ti fi ẹ̀sùn kan gbogbo àwọn ajáwèé owó orí pátá pé wọ́n lọ́wọ́ nínú mọ̀kàrúrù.,nei,refutes,0.30207428,0.39854863,0.29937705
+yoruba,Adébọ́lá ni a bí ní ìlú u Ṣakí.,nei,refutes,0.21167281,0.399415,0.38891217
+hausa,Matar Ahmad at-Tijjani ta farko asalin 'yar Ingila ce kuma tana da yara uku,nei,supports,0.40610504,0.2015615,0.3923335
+hausa,"Hanyar haɗa Alkaki tana buƙatar nika alkama, haɗawa da madara da mai, da soya shi a hankali.",supports,supports,0.44355726,0.1852675,0.37117526
+igbo,Pericoma so n'aha mmanwụ ndị Igbo na-efe. Onweghi onye Igbo ji mmanwụ a egwu egwu,nei,refutes,0.28531677,0.36695606,0.34772712
+igbo,Emmanuel Nnamdị Ụba tuuru ugo dị ka onye a họpụtara ịnọchite anya ndị ndịda Anambara na ntuli aka nke Epurel 2011.,supports,nei,0.21490608,0.3909114,0.39418253
+igbo,"Ọ bụrụ na e wepụ nkwado ndị APC, Obaseki agaghị ịbụ gọvanọ Edo steeti.",supports,supports,0.40189773,0.30802807,0.29007417
+igbo,Ọkaiwu Paul Achalla onye IPOB ekwuola na ha na-agba mbọ ka facebook weghachite akantụ onye ndụ ha.,supports,nei,0.21853746,0.37772954,0.40373293
+igbo,"John Abeng bụ onyeisi ndị uweoji na Steeti Anambra ekwughi ihe ọbụla banyere ịchụpụ ndị ohi, ndịotu nzuzo na ndị ntọrị mmadụ na Steeti Anambra.",refutes,supports,0.54505646,0.2155022,0.23944123
+igbo,Kọmishọna na-ahụ maka azụmahịa aha ya bụ Christian Madụbuko gwara ndị Anambra ka ha na-akwụ onyeọbụla masịrị ha ụtụ isi.,refutes,refutes,0.23647058,0.3827861,0.38074335
+yoruba,Ìgbà kan tún rèé tí Ààrẹ Buhari àtàwọn aṣòfin kọlu ara wọn lórí àbá owó ìṣúná ọdún 2016,nei,supports,0.37237513,0.3430424,0.28458253
+igbo,"Mgbe a na-akuziri ụmụnwoke etu ha ga-esi bụrụ ụmụnwoke ga-abara obodo uru, a na-ekwu ihe na-eme ebe ahụ.",refutes,supports,0.5677541,0.18030435,0.25194156
+igbo,Akụkọ a ma ama na-ekwu na-ekwu na onye mbụ a mara nke ọma n'Akwete bụ Dada Nwakata.,supports,nei,0.18786573,0.40381032,0.4083239
+yoruba,Aago mẹ́fà àbọ̀ òwúrọ̀ ni àwọn akẹ́kọ̀ọ́ máa ń tò wọlé ní àwọn ilé-ìwé òkè òkùn.,nei,refutes,0.2750753,0.44405198,0.2808727
+yoruba,Kò sí àgbàlagbà ọkùnrin tí ó fi ipá bá àwọn ọmọdé lò lásìkò yìí.,refutes,refutes,0.1808318,0.48223206,0.33693612
+hausa,Taɓarya ta na da muhimmanci sosai wurin yin jajjage.,nei,nei,0.3933772,0.18246551,0.42415726
+yoruba,Sunday Igboho ni àwọn ará Kebbi àti Zamfara kọ́ ló n jínígbé ní Oke Ogun.,refutes,refutes,0.24183565,0.40490305,0.3532613
+yoruba,Baba Ginimbi àti ẹ̀gbọn rẹ̀ wà lára àwọn tí ó ṣorò níbi ìsìnkú rẹ̀.,supports,refutes,0.21678045,0.42433277,0.35888675
+igbo,"Naịjrịa bụ mba nwere ọtụtụ agbụrụ. N'agbanyeghị agbụrụ dị icheiche dị na Naịjirịa, e nwere ihe ndị na-ejikọ ha ọnụ. Ofufe ndị, ihe nkiri ha na ndọrọndọrọ ọchịchị so na ihe na-akpa oke n'etiti Naịjirịa.",supports,supports,0.4980424,0.2299032,0.27205446
+yoruba,"Àsìkò tí ìkọlù yìí wáyé láàárín àwọn akẹ́kọ̀ọ́ FUOYE àti ọlọ́pàá ni ìyàwò Gómìnà ìpínlẹ̀ Èkìtì rìn sí, àmọ́ ìròyìn fi lélẹ̀ pé ìjàm̀bá kankan kò ṣe é.",supports,supports,0.5407744,0.2529175,0.20630817
+hausa,Al'umma daban-daban su na da irin nasu salon kiɗa da waƙa.,nei,supports,0.40771466,0.19808044,0.39420488
+hausa,ƙwallon kwando an ƙirƙire ta ne a Asiya,refutes,nei,0.34020707,0.2398389,0.41995403
+yoruba,Ọwọ́ àwọn Gómìnà ìpínlẹ̀ kò sí nínú owó tí wọ́n máa ń fún àwọn ẹka ìjọba.,refutes,refutes,0.23894918,0.44807532,0.31297547
+hausa,Hausa koko abu ne na yau-da-kullun a Ghana kuma ana ci da abincin gargajiya kamar ƙosai ko Akara.,supports,supports,0.42464486,0.19990884,0.3754463
+yoruba,Ààrẹ ń sọ̀rọ̀ kábakàba bí ẹni pé ọmọ egbẹ́ lẹ́yìnlẹ́yìn ni.,nei,refutes,0.24597126,0.39494053,0.35908815
+yoruba,"Àná ni Pópọ́ọlá wọ aṣọ aláwọ̀ aró, ò ní ni Wọlé wọ tirẹ̀.",nei,refutes,0.31869826,0.41938066,0.26192105
+yoruba,"Ní ilẹ̀ Yorùbá,  tí obìnrin bá ń ṣe ìgbéyàwó, dandan ni kí ó wọ ilẹ̀kẹ̀ sọ́rùn.",nei,supports,0.6106801,0.2325084,0.15681146
+yoruba,"Ikú Ebila le mú kí ẹgbẹ́ One Million Boys sọ agbára nù, àmọ́  ó túnbọ̀ ró àwọn ẹgbẹ́ òkùnkùn kékèèké mìíràn lágbàra.",refutes,supports,0.56010985,0.23366964,0.20622054
+igbo,Ndị Brazil nyere goolu ozugbu Neymar gbanyere bọọlụ na poostu.,refutes,refutes,0.25289258,0.3770317,0.37007567
+igbo,"Ngozi Okonjo Iweala bụ mịnịsta na-ahụ maka ego na Nigeria, malite n’afọ 2003 rue 2006; nakwa site n’afọ 2011 rue 2015.",supports,supports,0.552706,0.19990918,0.2473848
+hausa,An kashe Sir Ahmadu Bello a gidansa a ranar 12 ga watan Junairu.,refutes,nei,0.35035518,0.22451572,0.42512912
+igbo,"Ndị mgbe gboo ji Ibini Ukpabi edozi esemokwu na nsogbu ndị dịka esemokwu ezinụlọ, igbu ọchụ, na ịta amoosu.",supports,supports,0.5286565,0.20632786,0.26501566
+hausa,Muhammad Auwal Albaniy Zariya ya rasu sanadiyyar hatsarin mota.,refutes,nei,0.2966008,0.29969883,0.40370044
+hausa,Almajiri shi ne wanda ya bar garinsu zuwa wani gari don kasuwanci.,refutes,nei,0.37978312,0.20873845,0.4114784
+yoruba,"Láti rìnrìn-àjò dé Porto Novo láti Èkó, èèyàn á nílò láti wọ ọkọ̀ ojú ọ̀nà.",refutes,supports,0.5968093,0.2066726,0.19651811
+yoruba,"Matthew Aremu tí a tún mọ̀ sí Olúṣẹ́gun Ọbásanjọ́ je àgbà olóṣèlú, ajagun-fẹ̀yìntì, àti ààrẹ àná ní orílẹ̀-èdè Nàìjíríà.",supports,supports,0.550955,0.24606559,0.2029794
+yoruba,Àfọ̀njá kò rí àtìlẹyìn kankan gbà lọ́dọ̀ Hausa nígbà tí ó dìtẹ̀ lórí ìjọba.,refutes,refutes,0.31756246,0.39212903,0.29030848
+yoruba,Irúfẹ́ àwọn orúkọ mìíràn tí a tún lè pe ọbẹ̀ yìí pín sí méje.,refutes,refutes,0.20271724,0.44709808,0.35018462
+igbo,Jurgen Klopp kwuru na ọ gaghị akwụ ụgwọ iwu ọ dara n'ihi na o mere ya na-amaghị ama.,refutes,refutes,0.18437514,0.41040084,0.40522406
+igbo,"Na Republic nke abụọ nke Nigeria, P.N. Okeke-Ojiudu ji ọkwa Gọvanọ Anambara. ",refutes,supports,0.3958727,0.2874797,0.31664753
+igbo,Mazị Sam Ohuabunwa bụ ọkaibe n'ihe gbasara mkpata na mmefu akụ . Mazị Sam Ohuabunwa kwenyere na ndị Naịjirịa ji ụgwọ nwere ike ime ka ego Naịjirịa gharazi iwe isi nke na agaghịzi enwewu ike iji ya gotelie ihe na mba ụwa.,supports,supports,0.403789,0.30767485,0.28853613
+hausa,Ana zargin 'yan bindiga dadi da kisan mutane lokacin da aka saka dokar hana zirga-zirgar jama'a.,refutes,supports,0.417077,0.19954392,0.3833791
+igbo,Odogwu Afrịka chịrị Zimbabwe bido afọ 1980 ruo afọ 2017,supports,refutes,0.24276891,0.38692364,0.37030745
+igbo,Swizaland nọ n'ọkwa isii nke mba kachasị agba bọọlụ dịka mkpọpụta ndị FIFA si dị. Ndị mmadụ na-ele ndị Brazil ịma ma ha a ga-eme nke ọma karịa Jamini.,supports,refutes,0.25980103,0.38801625,0.3521827
+hausa,Kasar Landan ba ta cikin wuraren da Abubakar Tafawa Balewa ya yi karatu.,refutes,nei,0.40528047,0.18851036,0.4062091
+hausa,Agwaluma na taimakawa wajen rage alamun zazzabi da kuma inganta lafiyar jiki yayin cututtuka masu alaƙa da malaria.,supports,supports,0.42330098,0.19742362,0.3792754
+igbo,Obodo ọtụtụ mmadụ bi n'ime ya na-enwe nsogbu mmiri na ebe obibi dị mma karịsịa ebe ha dị obere.,nei,refutes,0.22545025,0.4100123,0.36453745
+hausa,Hausawa suna amfani da gyaɗa wajen haɗa ƙuli-ƙuli da wasu nau’ikan abinci ba wai miyar gyaɗa ba kawai.,nei,supports,0.42554608,0.19672026,0.37773365
+yoruba,"Nínú ìtàn, Gẹ̀lẹ̀dẹ́ àti Ẹ̀fẹ̀ kò rú ẹbọ tí Ifá wí ni wọn ò ṣe rọ́mọ bí láyé.",refutes,supports,0.5965547,0.24781917,0.15562615
+igbo,Ọsụọfịa na Ada Jesus nwere esemokwu. Nke mere ka Ada Jesus bụrụ onye nwụrụ anwụ.,nei,nei,0.2469151,0.3684795,0.3846054
+hausa,Mamman Shata mawaƙi ne mai kaifin basira wanda ke iya yiwa duk abinda ya ga dama waƙa.,supports,supports,0.4261456,0.1864043,0.38745013
+yoruba,Ọgbẹni Egbebi ò gbìyànjú láti lọ bere lọwọ awọn ara inu ọja kí ó tó gba ohun tí ìyàwó rẹ̀ sọ gbọ́,refutes,refutes,0.22814788,0.45810574,0.31374636
+igbo,Ọrịa mmịwụ gburu Mmesoma Mercy Cynthia Obi. Ọ nwụrụ ọnwa abụọ tupu o mee nncheta ọmụmụ ya.,refutes,refutes,0.21336044,0.42295182,0.3636877
+hausa,Malaman addini suna ganin Maulidi na iya amfani da sabbin abubuwa ba tare da bin dukkan ayyukan Annabi ba.,nei,supports,0.41529495,0.18497224,0.39973277
+igbo,Dọkịta Nne nke ụlọọgwụ Steve kwụrụ na ọbara ịkpụkọ na ngụ na-aka njọ n'ebe ụmụ nwaanyị buru ibu nọ. Venessa na-akpachara onwe ya anya ugbua igbochi ihe ọbụla ga-eme ka ọbara gbaa n'ime ahụ ya.,nei,refutes,0.31359017,0.35204363,0.33436623
+yoruba,Ọlọ́run ṣe àdéhùn fún Dáúdà pé bí ó bá bímọ yóò fi ọmọ náà jọ́sìn fún òun.,refutes,refutes,0.2641606,0.43838942,0.29744995
+hausa,"Shinkafa tana da wadatar tushen kuzari mafi inganci, kuma tana da sinadarai, iron da furotin.",supports,supports,0.44472238,0.19600797,0.3592697
+igbo,Ejike Obumneme Aghanya bụ onye nkụzi kpọ ụmụakwụkwọ ya wee gba ọsọ n'oge Agha Biafra.,refutes,refutes,0.2093162,0.40918836,0.38149545
+yoruba,"Ọmọkọ́mọ ni Ayọbámi, olùkọ́ pè é ní òwúrọ̀ yìí, ó sì lu aago pa.",nei,supports,0.4485211,0.2775118,0.27396712
+yoruba,Lawal ń tẹ ẹ̀rọ ìbánisọ̀rọ̀ rẹ̀ láti bèrè bóyá ètò Maryland yóò wáyé.,nei,refutes,0.25226343,0.3971338,0.35060272
+hausa,Abubakar Gumi ya yi rikici da malaman sufaye.,supports,nei,0.3856861,0.17914869,0.4351653
+yoruba,Sunday Igboho ní òun kò fẹ́ oyè ọ̀gá àgbà páta fún ikọ̀ Amotekun nílẹ̀ Yorùbá,nei,refutes,0.20506148,0.45633176,0.3386068
+igbo,Ụfọdụ ụmụ nwaanyị na-agabiga ihe mgbu ka ha na-ahụ nsọ ha. Ihe mgbu ha gụnyere mgbakasị ahụ na-ahụ ụfụ. Enwere ụzọ dị icheiche apụrụ inyere nwaanyị nsọ ya na-enye nsogbu aka.,supports,supports,0.39586234,0.3095043,0.2946333
+hausa,A zaminin mulkin Abdullahi Umar Ganduje aka sayar da filayen makarantu don gina shaguna.,nei,nei,0.39936435,0.18479061,0.41584507
+igbo,"John Abeng bụ onyeisi ndị uweoji na Steeti Anambra ekwuola na ọ ga-enye aka ịchụpụ ndị ohi, ndịotu nzuzo na ndị ntọrị mmadụ.",supports,supports,0.5666607,0.20020327,0.23313604
+hausa,An yi yaƙin basasa na Biyafara ne a loƙacin mulkin Janar Yakubu Gawon.,supports,supports,0.4582295,0.19034232,0.35142818
+hausa,Ba a taba yin shugaban ƙasar da ya wuce shekaru 5 akan mulki a ƙasar Gambiya ba.,refutes,supports,0.4206168,0.1884874,0.39089587
+hausa,Zubairu shine yake jagorancin haɗa waƙoƙin yabon Ahmad at-Tijjanī wanda za ayi ranar jumma'a,nei,supports,0.4169946,0.1934442,0.38956115
+hausa,Neman ilimin addini ya wajaba akan kowanne musulmi namiji da mace,nei,nei,0.3657169,0.19972372,0.4345594
+hausa,Shugaban kasa Goodluck Ebele Jonathan ya sha kayi a hannun Muhammadu Buhari a zaben shekarar 2015.,supports,supports,0.4227697,0.18582189,0.39140838
+hausa,An yi wa Murtala Muhammad shaidar cewa mutum ne mai son zaman lafiya.,supports,supports,0.407876,0.19048855,0.40163547
+hausa,"Yawancin waƙoƙin zamani basa haɓaka, kuma basa bada wata gudummawa ga haɓakar harshe.",nei,supports,0.4083276,0.18786019,0.40381217
+igbo,Alvan Ikoku so n'òtu West African Educational Council (WAEC) ma sonyekwa n'òtù Council nke Mahadum Ibadan na 1950s..,refutes,supports,0.3590885,0.30625618,0.33465528
+igbo,Ndị bi na ndịda na-asụ Yoruba.,nei,refutes,0.07850081,0.4691154,0.45238382
+igbo,"Nwankwo Kanu bụkwa onye nwe igwe onyonyo nke Kanu Sports, ụlọ ọrụ igwe onyonyo egwuregwu Ịntanetị.",supports,supports,0.5292321,0.23870954,0.23205838
+igbo,Mahadum Trinity College dị na Dublin nke Ireland ji ihe eserese wee sọpụrụ Jaja Wachuku n'afọ 2020.,supports,refutes,0.18783523,0.43091762,0.38124713
+hausa,An haifi Ahmad al-Tijani a shekarar 1737 kuma ya kafa tsarin Tijjaniyya a cikin 1780s,supports,supports,0.41221797,0.19108306,0.39669895
+yoruba,Mọ́ímọ́í dáa ṣùgbọ́n wọn kì í fí jẹ ìrẹsì àti àwọn oúnjẹ mìíràn.,refutes,refutes,0.21364796,0.4307938,0.35555828

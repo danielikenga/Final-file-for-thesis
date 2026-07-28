@@ -1,0 +1,7 @@
+comparison,n_matched,qwen1.5b_claim_only_correct,qwen1.5b_gold_correct,a_right_b_wrong (b),a_wrong_b_right (c),discordant_pairs,p_value,significant_at_0.05,qwen1.5b_bm25_correct,qwen1.5b_adversarial_correct,qwen14b_gold_correct,qwen14b_translated_gold_correct
+qwen1.5b_claim_only vs qwen1.5b_gold,492,192.0,226.0,118,152,270,0.04440957612562775,True,,,,
+qwen1.5b_gold vs qwen1.5b_bm25,492,,226.0,55,23,78,0.00037779201420676267,True,194.0,,,
+qwen1.5b_gold vs qwen1.5b_adversarial,492,,226.0,137,75,212,2.4690993214744047e-05,True,,164.0,,
+qwen1.5b_claim_only vs qwen1.5b_adversarial,492,192.0,,123,95,218,0.06720283514382124,False,,164.0,,
+qwen1.5b_gold vs qwen14b_gold,492,,226.0,57,146,203,3.4371205853097425e-10,True,,,315.0,
+qwen14b_gold vs qwen14b_translated_gold,492,,,48,90,138,0.00044058492261106464,True,,,315.0,357.0

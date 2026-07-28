@@ -1,0 +1,27 @@
+id,language,claim,translated_claim,gold_label,rank,title,url,snippet,retrieved_text
+afrifact_data_culture_hausa_657,hausa,Shugaba Muhammadu Buhari ya kaddamar da eNaira a ranar 20 ga watan Yunin 2016.,The Nigerian Naira was devalued by Shugaba Muhammadu Buhari in January 2016.,nei,,,,,
+afrifact_data_culture_igbo_058,igbo,Ngagharị iwe a bụ ụzọ e si edozi esemokwu.,"The English translation is:
+
+""Those who do not know their own names will be known by others.""",nei,,,,,
+afrifact_data_culture_igbo_749,igbo,Ihe isi ike anaghị emetụta ihe ndị e ji alụ ụm̀ụ nwaanyị Igbo. Ụmụ ntorobịa Igbo kwuru na ha zuru ka emee.,"The English translation is:
+
+""An eye for an eye and a tooth for a tooth will not solve the problem; it will just make things worse.""",refutes,,,,,
+afrifact_data_culture_igbo_384,igbo,"N'ịgbado ụkwụ n'oke ala nakwa ngwaahịa, Ahịa Main Market Ọnicha bụ otu n'ime ahịa kacha bu ibu n'ọdịda anyanwụ Afịrịka","The English translation is:
+
+""Ahịa Main Market in Onicha has been declared as an open-air market by the government.""",supports,,,,,
+afrifact_data_culture_yoruba_723,yoruba,"Abíọ́lá ní ìfẹ́ sí ìṣèlú látìgbà tí ó wà ní ọmọ ọdún mọ́kàndínlógún, ó sì bẹ̀rẹ̀ sí í kópa ní ẹgbẹ́ òṣèlú látàrí ìfẹ́ tí ó ní sí i.rẹ̀ sí i.","The English translation is:
+
+""Abiola will be crowned queen at the end of this year's election; she will then rule until her successor takes office.""",supports,,,,,
+afrifact_data_culture_hausa_081,hausa,Rabiu Musa Kwankwaso ne ya naɗa Sunusi Lamido Sunusi sarautar Kano bayan mutuwar Ado Bayero.,Rabiu Musa Kwankwaso was elected as the governor of Kano state by the people of Ado Bayero.,nei,,,,,
+afrifact_data_culture_igbo_141,igbo,Akwa mmiri ahụ adaala.,"The English translation is:
+
+""Water is life.""",nei,,,,,
+afrifact_data_culture_hausa_389,hausa,"Ango a al'adar Hausawa yana da alhakin siyan kayan lefe kafin aure, sannan kayan ana kai su gidan amarya ta hannun mata.","The English translation is:
+
+""Those who do not learn Hausa will be unable to understand what is said in this book.""",supports,,,,,
+afrifact_data_culture_igbo_241,igbo,Ụfọdụ ụlọakwụkwọ dị na Beijing na Shanghai emepebeghị dịka ụmụakwụkwọ agaghị akwụkwọ taa,"The English translation is:
+
+Beijing and Shanghai were chosen as the host cities for the 2008 Olympics due to their strong economic performance.",refutes,,,,,
+afrifact_data_culture_igbo_424,igbo,O bụ ịkọ ọrụ ugbo so na ọrụ ndị mba Brazil dabere na ya isi na-abawanye ọnọdụ akụ na ụba ha ruo ugbu a.,"The English translation is:
+
+""Those who have been to Europe and America will know that in Africa there are many people with disabilities.""",nei,,,,,
