@@ -76,4 +76,4 @@ Experiments involving large language models may require substantial computationa
 
 ## Academic Context
 
-This repository forms part of an MSc Data Science dissertation at Queen Mary University of London.
+This repository is part of my MSc Data Science dissertation at Queen Mary University of London.

@@ -127,7 +127,7 @@ print(
 )
 
 
-# Save ALL target cases
+# Saveing  ALL the  target cases
 
 
 repaired_refutes.to_csv(
@@ -149,7 +149,7 @@ damaged_yoruba_supports.to_csv(
 
 
 # Deterministic representative selection
-# I select examples around text-length quantiles:
+# I am selecting examples around text-length quantiles:
 # short, medium-short, median, medium-long, long.
 # This avoids manually cherry-picking examples.
 
@@ -211,7 +211,7 @@ representative_damaged_yoruba_supports = (
 )
 
 
-# Save representative cases
+
 
 representative_repaired_refutes.to_csv(
     os.path.join(
@@ -229,7 +229,7 @@ representative_damaged_yoruba_supports.to_csv(
     index=False,
 )
 
-# Build compact readable review tables
+
 
 
 review_columns = [
@@ -283,7 +283,7 @@ damaged_review.to_csv(
     index=False,
 )
 
-# Print selected cases compactly
+
 
 
 print("\n" + "=" * 70)

@@ -73,9 +73,6 @@ prediction_cols = [
 
 df["num_systems_correct"] = df[correct_cols].sum(axis=1)
 
-# ============================================================
-# 1. Universally hard examples
-# ============================================================
 
 hard = df[
     df["num_systems_correct"] == 0
@@ -93,7 +90,7 @@ hard.to_csv(
     index=False,
 )
 
-# 2. Persistent hard refutes
+
 
 hard_refutes = hard[
     hard["gold_label"] == "refutes"
@@ -107,10 +104,6 @@ hard_refutes.to_csv(
     index=False,
 )
 
-# ============================================================
-# 3. BM25 supports-bias failures
-# Gold label is not supports, but BM25 predicts supports
-# ============================================================
 
 bm25_support_bias = df[
     (df["gold_label"] != "supports")
@@ -125,10 +118,6 @@ bm25_support_bias.to_csv(
     index=False,
 )
 
-# ============================================================
-# 4. Scale repairs
-# 1.5B gold wrong -> 14B gold correct
-# ============================================================
 
 scale_repairs = df[
     (~df["qwen_1_5b_gold_correct"])
@@ -143,10 +132,6 @@ scale_repairs.to_csv(
     index=False,
 )
 
-# ============================================================
-# 5. Scale regressions
-# 1.5B gold correct -> 14B gold wrong
-# ============================================================
 
 scale_regressions = df[
     (df["qwen_1_5b_gold_correct"])
@@ -161,9 +146,6 @@ scale_regressions.to_csv(
     index=False,
 )
 
-# ============================================================
-# 6. Gold -> BM25 retrieval damage
-# ============================================================
 
 retrieval_damage = df[
     (df["qwen_1_5b_gold_correct"])
@@ -178,9 +160,6 @@ retrieval_damage.to_csv(
     index=False,
 )
 
-# ============================================================
-# 7. Adversarial damage
-# ============================================================
 
 adversarial_damage = df[
     (df["qwen_1_5b_gold_correct"])
@@ -195,9 +174,6 @@ adversarial_damage.to_csv(
     index=False,
 )
 
-# ============================================================
-# Summary
-# ============================================================
 
 print("\nCASE COUNTS")
 print("Universally hard:", len(hard))

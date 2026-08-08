@@ -54,7 +54,7 @@ def safe_accuracy(group, prediction_column):
         group["gold_label"],
         group[prediction_column],
     )
-# Load predictions
+# Loadjng predictions
 
 print("Loading prediction files...")
 
@@ -93,7 +93,7 @@ for df in [original, translated]:
         normalise_label
     )
 
-# Check duplicate IDs
+# Checking for the d duplicate IDs
 
 if original["id"].duplicated().any():
     raise ValueError(
@@ -106,7 +106,7 @@ if translated["id"].duplicated().any():
     )
 
 
-# Merge experiments by example ID
+# Merge experiments by ethe example ids
 
 merged = original.merge(
     translated,
@@ -123,7 +123,7 @@ if len(merged) != len(original) or len(merged) != len(translated):
     )
 
 
-# Validate gold labels and languages
+
 
 
 gold_mismatch = (

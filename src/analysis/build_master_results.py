@@ -9,9 +9,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 EXPERIMENTS = [
 
-    # -------------------------
-    # Encoder Models (Baselines)
-    # -------------------------
+
 
     {
         "category": "Encoder",
@@ -25,9 +23,7 @@ EXPERIMENTS = [
         "file": "results/baselines/afriberta_custom_split_results.json"
     },
 
-    # -------------------------
-    # Gold Evidence Encoders
-    # -------------------------
+
 
     {
         "category": "Gold Evidence",
@@ -41,9 +37,7 @@ EXPERIMENTS = [
         "file": "results/gold_evidence/afriberta_gold_evidence_results.json"
     },
 
-    # -------------------------
-    # Qwen 1.5B
-    # -------------------------
+
 
     {
         "category": "LLM",
@@ -75,9 +69,7 @@ EXPERIMENTS = [
         "file": "results/llm/qwen_adversarial_evidence_results.json"
     },
 
-    # -------------------------
-    # Qwen 14B
-    # -------------------------
+
 
     {
         "category": "LLM",

@@ -41,8 +41,7 @@ def normalise_label(x):
 def load_prediction_file(name, path):
     df = pd.read_csv(path)
 
-    # Different experiment pipelines used different identifier names.
-    # Standardise them here before cross-experiment merging.
+
     if "id" not in df.columns:
         if "query_id" in df.columns:
             df = df.rename(columns={"query_id": "id"})
@@ -70,9 +69,7 @@ def load_prediction_file(name, path):
     )
 
     return df
-# ============================================================
-# Load and merge predictions
-# ============================================================
+
 
 merged = None
 
@@ -94,9 +91,6 @@ print("Merged examples:", len(merged))
 
 merged["language"] = merged["language"].astype(str).str.lower().str.strip()
 
-# ============================================================
-# Add correctness columns
-# ============================================================
 
 for name in EXPERIMENTS:
     merged[f"{name}_correct"] = (
@@ -108,9 +102,6 @@ merged.to_csv(
     index=False,
 )
 
-# ============================================================
-# Overall accuracy table
-# ============================================================
 
 overall_rows = []
 
@@ -131,9 +122,6 @@ overall_df.to_csv(
     index=False,
 )
 
-# ============================================================
-# Per-language accuracy
-# ============================================================
 
 language_rows = []
 
@@ -155,9 +143,7 @@ language_df.to_csv(
     index=False,
 )
 
-# ============================================================
-# Per-label accuracy
-# ============================================================
+
 
 label_rows = []
 
@@ -179,9 +165,6 @@ label_df.to_csv(
     index=False,
 )
 
-# ============================================================
-# Prediction distribution / bias
-# ============================================================
 
 dist_rows = []
 
@@ -202,9 +185,6 @@ dist_df.to_csv(
     index=False,
 )
 
-# ============================================================
-# Pairwise transitions
-# ============================================================
 
 PAIRS = [
     ("qwen_1_5b_claim_only", "qwen_1_5b_gold"),
@@ -242,9 +222,6 @@ transition_df.to_csv(
     index=False,
 )
 
-# ============================================================
-# Persistent hard examples
-# ============================================================
 
 correct_cols = [f"{name}_correct" for name in EXPERIMENTS]
 
@@ -268,9 +245,6 @@ easy_examples.to_csv(
     index=False,
 )
 
-# ============================================================
-# Classification reports + confusion matrices
-# ============================================================
 
 for name in EXPERIMENTS:
     report = classification_report(
@@ -301,9 +275,6 @@ for name in EXPERIMENTS:
         os.path.join(OUTPUT_DIR, f"confusion_matrix_{name}.csv")
     )
 
-# ============================================================
-# Print summary
-# ============================================================
 
 print("\nOVERALL ACCURACY")
 print(overall_df.to_string(index=False))
